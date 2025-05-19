@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
     "criteria": {
       "has_log": "2025-05-19 06:22:05 +0000"
@@ -263,6 +269,12 @@
       "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
@@ -655,6 +667,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
+  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2025-05-19 06:29:55 +0000"
@@ -919,6 +937,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
       "has_log": "2025-05-19 06:18:08 +0000"
@@ -1147,6 +1171,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-19 06:20:46 +0000"
@@ -1158,6 +1188,12 @@
       "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
   },
   "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
     "criteria": {
@@ -1442,6 +1478,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-19 06:19:01 +0000"
@@ -1597,6 +1639,12 @@
       "has_iron": "2025-05-19 06:17:25 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
@@ -1832,6 +1880,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 06:17:25 +0000"
@@ -1922,6 +1976,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-05-19 06:29:55 +0000"
@@ -1999,6 +2059,12 @@
       "has_planks": "2025-05-19 06:18:08 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
@@ -2167,6 +2233,12 @@
       "has_oak_planks": "2025-05-19 06:18:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 07:17:16 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
     "criteria": {
