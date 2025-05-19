@@ -1306,3 +1306,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 22:18:58.716] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -512 Y: 78 Z: -759
 [19May2025 22:18:58.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was shot by Skeleton
 [19May2025 22:18:58.720] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-513, 77, -761) minecraft:overworld
+[19May2025 22:32:49.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.7.141.189:47471] logged in with entity id 70056 at (122.68761668778687, 137.0, -470.62105005137784)
+[19May2025 22:32:49.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[19May2025 22:32:49.497] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
