@@ -1299,3 +1299,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 22:01:32.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/66061, l='ServerLevel[AAAA]', x=-550.50, y=66.88, z=-646.50] died, message: 'Librarian suffocated in a wall'
 [19May2025 22:02:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
 [19May2025 22:02:54.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[19May2025 22:12:44.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> Bro
+[19May2025 22:12:50.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[19May2025 22:12:50.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[19May2025 22:18:58.715] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID 58b81c3a-3a2f-44f0-9c7e-a706c6c761eb
+[19May2025 22:18:58.716] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -512 Y: 78 Z: -759
+[19May2025 22:18:58.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was shot by Skeleton
+[19May2025 22:18:58.720] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-513, 77, -761) minecraft:overworld
