@@ -4221,6 +4221,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_shrub": {
+    "criteria": {
+      "has_magnolia_sapling": "2025-05-19 20:58:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_chair": {
     "criteria": {
       "has_white_wool": "2025-05-19 20:47:12 +0000"
@@ -5142,6 +5148,12 @@
   "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-19 20:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-19 21:04:01 +0000"
     },
     "done": true
   },
