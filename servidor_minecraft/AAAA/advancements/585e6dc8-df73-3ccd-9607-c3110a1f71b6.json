@@ -103,6 +103,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-05-19 22:41:17 +0000",
       "grassy_beach": "2025-05-19 20:21:33 +0000",
       "magnolia_highlands": "2025-05-18 04:11:47 +0000",
       "sparse_redwoods": "2025-05-18 04:24:09 +0000",
@@ -116,6 +117,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-05-19 22:41:17 +0000",
       "grassy_beach": "2025-05-19 20:21:33 +0000",
       "magnolia_highlands": "2025-05-18 04:11:47 +0000",
       "sparse_redwoods": "2025-05-18 04:24:09 +0000",
@@ -1322,7 +1324,8 @@
       "minecraft:spider": "2025-05-18 04:02:00 +0000",
       "minecraft:witch": "2025-05-19 06:56:39 +0000",
       "minecraft:silverfish": "2025-05-18 05:03:27 +0000",
-      "minecraft:zombie": "2025-05-18 04:24:38 +0000"
+      "minecraft:zombie": "2025-05-18 04:24:38 +0000",
+      "minecraft:zombie_villager": "2025-05-19 22:48:58 +0000"
     },
     "done": false
   },
@@ -1525,6 +1528,7 @@
   },
   "repurposed_structures:igloos": {
     "criteria": {
+      "in_igloo_grassy": "2025-05-19 22:40:11 +0000",
       "in_igloo_stone": "2025-05-18 04:12:47 +0000"
     },
     "done": false
@@ -4824,6 +4828,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_cherry_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-05-19 21:56:56 +0000"
@@ -4907,6 +4917,12 @@
       "in_mineshaft_savanna": "2025-05-19 20:15:02 +0000"
     },
     "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/brown_warped_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
+    },
+    "done": true
   },
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_chair": {
     "criteria": {
@@ -5088,6 +5104,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_acacia_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_dark_oak_chair": {
     "criteria": {
       "has_white_wool": "2025-05-19 20:07:57 +0000"
@@ -5244,6 +5266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 22:46:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-05-19 20:19:37 +0000"
@@ -5271,6 +5299,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_stool": {
     "criteria": {
       "has_white_wool": "2025-05-19 20:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 22:46:26 +0000"
     },
     "done": true
   },
@@ -5706,6 +5740,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_oak_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_mangrove_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-05-19 20:19:37 +0000"
@@ -5799,6 +5845,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-19 19:36:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_dark_oak_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
     },
     "done": true
   },
@@ -6240,6 +6292,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_jungle_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/painting": {
     "criteria": {
       "has_item": "2025-05-19 20:43:46 +0000"
@@ -6261,6 +6319,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_birch_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
     },
     "done": true
   },
@@ -6297,6 +6361,12 @@
   "cfm:recipes/decorations/acacia_coffee_table": {
     "criteria": {
       "has_log": "2025-05-19 20:19:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_spruce_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
     },
     "done": true
   },
@@ -6486,6 +6556,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_crimson_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-05-19 22:40:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_desk": {
     "criteria": {
       "has_planks": "2025-05-19 20:19:34 +0000"
@@ -6507,6 +6583,12 @@
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 20:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-05-19 22:44:18 +0000"
     },
     "done": true
   },
@@ -6801,6 +6883,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-05-19 20:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 22:46:26 +0000"
     },
     "done": true
   },

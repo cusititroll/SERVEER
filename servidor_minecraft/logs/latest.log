@@ -1309,3 +1309,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 22:32:49.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.7.141.189:47471] logged in with entity id 70056 at (122.68761668778687, 137.0, -470.62105005137784)
 [19May2025 22:32:49.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
 [19May2025 22:32:49.497] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[19May2025 22:40:38.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Local Brewery]
+[19May2025 22:42:33.418] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID 78893103-4574-4c71-b362-53514d2e06c1
+[19May2025 22:42:33.418] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -547 Y: 21 Z: -1131
+[19May2025 22:42:33.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was shot by Skeleton
+[19May2025 22:42:33.420] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-548, 21, -1132) minecraft:overworld
+[19May2025 22:43:02.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> [name:"Aca", x:-635, y:-26, z:-1246, dim:minecraft:overworld]
+[19May2025 22:44:09.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[19May2025 22:44:18.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Zombie Doctor]
+[19May2025 22:44:31.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[19May2025 22:44:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> ZZZ
+[19May2025 22:44:49.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was shot by Skeleton
+[19May2025 22:44:49.170] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-561, 44, -1112) minecraft:overworld
+[19May2025 22:45:10.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was blown up by Creeper
