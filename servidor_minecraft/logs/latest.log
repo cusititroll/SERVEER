@@ -1354,3 +1354,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 07:17:20.812] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@248ea82e[id=<null>,name=PandagamerP,properties={},legacy=false] (/127.47.174.134:37967) lost connection: Disconnected
 [19May2025 07:17:29.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
 [19May2025 07:17:29.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[19May2025 07:42:09.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey has reached the goal [Worsening Nightmares]
+[19May2025 07:42:09.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey has made the advancement [Night Sky Stalkers]
+[19May2025 07:42:23.167] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ModelOsprey with unique ID 3561bd92-b87e-4fe2-9c68-4a1a17fd73a2
+[19May2025 07:42:23.169] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 102 Y: 208 Z: -910
+[19May2025 07:42:23.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was shot by Wither Skeleton
+[19May2025 07:42:23.171] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(102, 208, -911) minecraft:overworld
+[19May2025 07:43:31.959] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ModelOsprey with unique ID 60830f41-502b-4d8f-8dea-b0aeb2a69b71
+[19May2025 07:43:31.962] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 103 Y: 100 Z: -940
+[19May2025 07:43:31.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was doomed to fall by Hoglin
+[19May2025 07:43:31.966] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(104, 100, -941) minecraft:overworld
+[19May2025 07:43:49.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey fell from a high place
+[19May2025 07:45:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Wither Skeleton
+[19May2025 07:45:38.557] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(111, 209, -918) minecraft:overworld
+[19May2025 07:45:46.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Wither Skeleton
+[19May2025 07:45:46.606] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(109, 208, -920) minecraft:overworld
+[19May2025 07:46:53.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Husk
+[19May2025 07:46:53.157] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(102, 216, -929) minecraft:overworld
+[19May2025 07:49:45.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ModelOsprey moved wrongly!
