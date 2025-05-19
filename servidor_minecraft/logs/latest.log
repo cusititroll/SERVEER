@@ -1322,3 +1322,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 22:44:49.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was shot by Skeleton
 [19May2025 22:44:49.170] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-561, 44, -1112) minecraft:overworld
 [19May2025 22:45:10.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was blown up by Creeper
+[19May2025 22:55:19.267] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID c6a7b99c-e925-4147-a66c-7f6f7a05c005
+[19May2025 22:55:19.268] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -520 Y: -19 Z: -1169
+[19May2025 22:55:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Cave Centipede
+[19May2025 22:55:19.269] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-518, -19, -1169) minecraft:overworld
+[19May2025 22:56:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[19May2025 22:56:47.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[19May2025 23:10:26.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Cover Me with Diamonds]
+[19May2025 23:11:16.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"HORNOS", x:-582, y:-58, z:-1094, dim:minecraft:overworld]

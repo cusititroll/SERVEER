@@ -5719,9 +5719,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-19 23:10:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-19 23:08:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-05-19 22:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-19 23:10:22 +0000"
     },
     "done": true
   },

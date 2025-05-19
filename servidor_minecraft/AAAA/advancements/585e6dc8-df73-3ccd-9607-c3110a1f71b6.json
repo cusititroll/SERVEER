@@ -105,6 +105,7 @@
     "criteria": {
       "shrubland": "2025-05-19 22:41:17 +0000",
       "grassy_beach": "2025-05-19 20:21:33 +0000",
+      "scorching_caves": "2025-05-19 22:57:08 +0000",
       "magnolia_highlands": "2025-05-18 04:11:47 +0000",
       "sparse_redwoods": "2025-05-18 04:24:09 +0000",
       "deciduous_forest": "2025-05-18 03:47:45 +0000",
@@ -1486,7 +1487,8 @@
       "dried_kelp": "2025-05-18 04:10:31 +0000",
       "beetroot": "2025-05-18 04:12:20 +0000",
       "cooked_rabbit": "2025-05-18 05:10:12 +0000",
-      "mushroom_stew": "2025-05-18 04:18:04 +0000"
+      "mushroom_stew": "2025-05-18 04:18:04 +0000",
+      "cooked_salmon": "2025-05-19 23:05:02 +0000"
     },
     "done": false
   },
@@ -4888,6 +4890,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-19 23:10:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_table": {
     "criteria": {
       "has_log": "2025-05-19 20:19:34 +0000"
@@ -5392,6 +5400,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2025-05-19 22:57:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-05-19 20:19:37 +0000"
@@ -5539,6 +5553,12 @@
   "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
       "has_wool": "2025-05-19 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-19 23:10:09 +0000"
     },
     "done": true
   },
@@ -6046,6 +6066,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-05-19 22:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-19 22:55:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-19 19:36:14 +0000"
@@ -6526,6 +6558,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-19 23:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-19 21:19:38 +0000"
@@ -6601,6 +6639,12 @@
   "cfm:recipes/decorations/spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-19 20:39:09 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-05-19 22:55:41 +0000"
     },
     "done": true
   },
