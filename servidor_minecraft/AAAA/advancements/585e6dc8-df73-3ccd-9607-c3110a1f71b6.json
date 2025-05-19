@@ -4560,6 +4560,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 20:19:49 +0000"
@@ -4569,6 +4575,12 @@
   "cfm:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_log": "2025-05-19 20:19:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:09:28 +0000"
     },
     "done": true
   },
@@ -4740,6 +4752,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 20:19:49 +0000"
@@ -4779,6 +4797,12 @@
   "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-05-19 20:19:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
     },
     "done": true
   },
@@ -4866,6 +4890,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_savanna": "2025-05-19 20:15:02 +0000"
@@ -4881,6 +4911,12 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-19 19:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
     },
     "done": true
   },
@@ -5334,6 +5370,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-19 19:36:14 +0000"
@@ -5478,6 +5520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_crate": {
     "criteria": {
       "has_planks": "2025-05-19 20:19:34 +0000"
@@ -5589,6 +5637,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_cherry_stool": {
     "criteria": {
       "has_white_wool": "2025-05-19 20:07:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
     },
     "done": true
   },
@@ -5874,6 +5928,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-19 19:36:14 +0000"
@@ -6012,6 +6072,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-05-19 20:19:37 +0000"
@@ -6102,15 +6168,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-05-19 20:19:37 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-19 20:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
     },
     "done": true
   },
@@ -6348,6 +6438,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
     "criteria": {
       "has_white_wool": "2025-05-19 20:07:57 +0000"
@@ -6417,6 +6513,12 @@
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_log": "2025-05-19 20:39:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-19 21:09:28 +0000"
     },
     "done": true
   },
