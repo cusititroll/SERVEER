@@ -1297,3 +1297,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 20:33:42.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3190ms or 63 ticks behind
 [19May2025 20:40:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"Waystones sin título", x:-544, y:64, z:-662, dim:minecraft:overworld]
 [19May2025 22:01:32.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/66061, l='ServerLevel[AAAA]', x=-550.50, y=66.88, z=-646.50] died, message: 'Librarian suffocated in a wall'
+[19May2025 22:02:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[19May2025 22:02:54.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
