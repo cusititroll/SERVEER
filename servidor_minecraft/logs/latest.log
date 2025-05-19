@@ -1372,3 +1372,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 07:46:53.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Husk
 [19May2025 07:46:53.157] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(102, 216, -929) minecraft:overworld
 [19May2025 07:49:45.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ModelOsprey moved wrongly!
+[19May2025 07:50:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Wither Skeleton
+[19May2025 07:50:08.611] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(103, 215, -930) minecraft:overworld
+[19May2025 07:50:36.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Husk
+[19May2025 07:50:36.861] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(102, 216, -931) minecraft:overworld
+[19May2025 07:51:54.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Husk
+[19May2025 07:51:54.361] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(102, 216, -930) minecraft:overworld
+[19May2025 07:54:42.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19May2025 07:54:42.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19May2025 07:54:42.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19May2025 07:54:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19May2025 07:54:42.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:overworld
+[19May2025 07:54:44.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/deeperdarker:otherside
+[19May2025 07:54:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/twilightforest:twilight_forest
+[19May2025 07:54:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/aether:the_aether
+[19May2025 07:54:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_end
+[19May2025 07:54:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_nether
+[19May2025 07:54:44.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (AAAA): All chunks are saved
+[19May2025 07:54:44.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[19May2025 07:54:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19May2025 07:54:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[19May2025 07:54:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19May2025 07:54:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19May2025 07:54:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19May2025 07:54:44.127] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
