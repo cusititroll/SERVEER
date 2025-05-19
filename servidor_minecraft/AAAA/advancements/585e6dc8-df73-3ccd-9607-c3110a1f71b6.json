@@ -1316,6 +1316,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-18 04:24:28 +0000",
       "minecraft:spider": "2025-05-18 04:02:00 +0000",
+      "minecraft:witch": "2025-05-19 06:56:39 +0000",
       "minecraft:silverfish": "2025-05-18 05:03:27 +0000",
       "minecraft:zombie": "2025-05-18 04:24:38 +0000"
     },
@@ -4385,6 +4386,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-19 06:50:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-19 06:27:22 +0000"
@@ -4442,6 +4449,12 @@
   "beautify:bookstack": {
     "criteria": {
       "requirement": "2025-05-19 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
+    "criteria": {
+      "has_redwood_shrub": "2025-05-19 06:51:51 +0000"
     },
     "done": true
   },
@@ -4508,6 +4521,12 @@
   "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
     "criteria": {
       "has_pink_magnolia_sapling": "2025-05-19 06:08:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-19 06:49:15 +0000"
     },
     "done": true
   },

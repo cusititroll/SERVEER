@@ -546,6 +546,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-05-19 06:53:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-19 06:19:01 +0000"
@@ -784,6 +790,12 @@
   "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-05-19 06:56:17 +0000"
     },
     "done": true
   },

@@ -1317,3 +1317,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 06:32:18.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Hippie Smell]
 [19May2025 06:34:28.941] [Worker-Main39/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
 [19May2025 06:35:25.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [What a Deal!]
+[19May2025 06:50:09.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Enchanter]
+[19May2025 06:54:20.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> hablña
+[19May2025 06:54:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ModelOsprey> aguanta
+[19May2025 06:55:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ModelOsprey> ya vengo
+[19May2025 06:55:12.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ModelOsprey lost connection: Disconnected
+[19May2025 06:55:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey left the game
+[19May2025 06:56:17.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was shot by Skeleton
+[19May2025 06:56:17.113] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(67, 124, -410) minecraft:overworld
+[19May2025 06:58:11.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was shot by Skeleton
