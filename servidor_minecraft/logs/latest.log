@@ -1312,3 +1312,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 06:20:46.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Stone Age]
 [19May2025 06:23:04.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [What a Deal!]
 [19May2025 06:24:53.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Sweet Dreams]
+[19May2025 06:28:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Cave Centipede
+[19May2025 06:28:50.318] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(600, -9, -860) minecraft:overworld
+[19May2025 06:32:18.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Hippie Smell]
+[19May2025 06:34:28.941] [Worker-Main39/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[19May2025 06:35:25.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [What a Deal!]
