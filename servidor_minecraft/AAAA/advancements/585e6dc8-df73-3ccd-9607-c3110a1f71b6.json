@@ -4259,6 +4259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-19 06:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-05-19 06:16:43 +0000"
@@ -4280,6 +4286,12 @@
   "regions_unexplored:recipes/redstone/redwood_door": {
     "criteria": {
       "has_redwood_planks": "2025-05-19 06:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-19 06:27:22 +0000"
     },
     "done": true
   },
@@ -4319,6 +4331,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-05-19 06:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-19 06:17:32 +0000"
@@ -4328,6 +4346,24 @@
   "regions_unexplored:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_redwood_planks": "2025-05-19 06:05:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-05-19 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-19 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-19 06:27:22 +0000"
     },
     "done": true
   },
@@ -4370,6 +4406,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-19 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-05-19 06:27:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-19 06:27:22 +0000"
     },
     "done": true
   },

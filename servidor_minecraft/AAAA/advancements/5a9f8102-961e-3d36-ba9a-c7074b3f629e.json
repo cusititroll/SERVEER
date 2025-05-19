@@ -17,9 +17,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_coffee_table": {
     "criteria": {
       "has_log": "2025-05-19 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-05-19 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -35,6 +53,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-19 06:18:13 +0000"
@@ -47,9 +77,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-19 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_grill": {
     "criteria": {
       "has_iron": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -68,6 +116,30 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -114,6 +186,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_iron": "2025-05-19 06:17:25 +0000"
@@ -123,6 +201,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-05-19 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 06:26:13 +0000"
     },
     "done": true
   },
@@ -174,9 +258,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-19 06:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_shrub": {
+    "criteria": {
+      "has_magnolia_sapling": "2025-05-19 06:26:14 +0000"
     },
     "done": true
   },
@@ -189,6 +291,12 @@
   "cfm:recipes/decorations/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-05-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -234,15 +342,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-19 06:17:25 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 06:22:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 06:22:15 +0000"
     },
     "done": true
   },
@@ -270,6 +402,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_trampoline": {
     "criteria": {
       "has_iron": "2025-05-19 06:17:25 +0000"
@@ -280,6 +430,18 @@
     "criteria": {
       "has_wood": "2025-05-19 06:18:13 +0000",
       "has_the_recipe": "2025-05-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -295,6 +457,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 06:22:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2025-05-19 06:17:37 +0000"
@@ -304,6 +478,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-05-19 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -331,9 +511,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -367,6 +559,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-05-19 06:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 06:17:25 +0000"
@@ -376,6 +574,18 @@
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-05-19 06:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -391,6 +601,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-05-19 06:17:57 +0000"
@@ -400,6 +616,12 @@
   "cfm:recipes/decorations/gray_grill": {
     "criteria": {
       "has_iron": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -421,6 +643,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-19 06:18:08 +0000"
@@ -433,9 +661,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-05-19 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -505,6 +745,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_trampoline": {
     "criteria": {
       "has_iron": "2025-05-19 06:17:25 +0000"
@@ -526,6 +772,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
     },
     "done": true
   },
@@ -562,6 +814,12 @@
   "cfm:recipes/decorations/oak_table": {
     "criteria": {
       "has_log": "2025-05-19 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-19 06:28:01 +0000"
     },
     "done": true
   },
@@ -607,9 +865,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -625,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-05-19 06:12:42 +0000"
@@ -634,6 +916,25 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "magnolia_log": "2025-05-19 06:26:13 +0000",
+      "redwood_log": "2025-05-19 06:22:05 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 06:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
     },
     "done": true
   },
@@ -655,6 +956,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-19 06:18:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-05-19 06:12:42 +0000"
@@ -670,6 +977,12 @@
   "cfm:recipes/decorations/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-05-19 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -694,6 +1007,18 @@
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2025-05-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -727,6 +1052,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 06:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-05-19 06:17:32 +0000"
@@ -745,9 +1082,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_table": {
     "criteria": {
       "has_planks": "2025-05-19 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-19 06:18:41 +0000"
     },
     "done": true
   },
@@ -775,9 +1130,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-05-19 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -853,6 +1232,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-05-19 06:18:13 +0000"
@@ -868,6 +1253,12 @@
   "cfm:recipes/decorations/purple_grill": {
     "criteria": {
       "has_iron": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -889,9 +1280,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-19 06:23:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-05-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -931,9 +1346,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "beautify:blinds": {
     "criteria": {
       "requirement": "2025-05-19 06:17:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 06:22:15 +0000"
     },
     "done": true
   },
@@ -955,9 +1382,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 06:22:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2025-05-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 06:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -979,9 +1430,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-19 06:23:04 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-05-19 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-19 06:27:04 +0000"
     },
     "done": true
   },
@@ -1099,6 +1562,30 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 06:22:15 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2025-05-19 06:27:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/post_box": {
     "criteria": {
       "has_iron": "2025-05-19 06:17:25 +0000"
@@ -1123,9 +1610,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-19 06:28:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 06:22:15 +0000"
     },
     "done": true
   },
@@ -1186,6 +1685,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 06:22:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/green_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-19 06:17:25 +0000"
@@ -1216,15 +1721,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-19 06:18:08 +0000"
     },
     "done": true
   },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-05-19 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -1249,6 +1772,12 @@
   "valhelsia_structures:recipes/building_blocks/oak_post": {
     "criteria": {
       "has_item": "2025-05-19 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 06:22:05 +0000"
     },
     "done": true
   },
@@ -1315,9 +1844,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_peaks": "2025-05-19 06:26:45 +0000"
+    },
+    "done": false
+  },
   "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-05-19 06:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
     },
     "done": true
   },
@@ -1351,9 +1898,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-19 06:20:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
@@ -1378,6 +1943,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2025-05-19 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-05-19 06:19:01 +0000"
     },
     "done": true
   },
