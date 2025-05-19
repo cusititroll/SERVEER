@@ -6126,6 +6126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-19 21:19:38 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-19 20:39:09 +0000"
@@ -6363,6 +6369,12 @@
   "valhelsia_furniture:recipes/decorations/yellow_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-19 20:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-19 21:19:38 +0000"
     },
     "done": true
   },
