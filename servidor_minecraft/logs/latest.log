@@ -1286,3 +1286,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 05:57:46.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ModelOsprey[/127.151.69.182:40987] logged in with entity id 4591 at (135.56947416741826, -54.0, -501.87467310765305)
 [19May2025 05:57:46.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey joined the game
 [19May2025 05:57:46.835] [Server thread/INFO] [Jade/]: Syncing config to ModelOsprey (af3d48e9-4c69-3ac2-8398-bdaf0b15cfdc)
+[19May2025 06:12:41.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.42.76.176:50563] logged in with entity id 11024 at (36.5, 73.0, -160.5)
+[19May2025 06:12:41.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
+[19May2025 06:12:42.131] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)
+[19May2025 06:13:10.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Alex's Mobs]
+[19May2025 06:13:26.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=-54, z=-577} BlockPos{x=139, y=-54, z=-576}
+[19May2025 06:13:37.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=-53, z=-594} BlockPos{x=153, y=-53, z=-593}
+[19May2025 06:14:01.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=162, y=-51, z=-596} BlockPos{x=163, y=-51, z=-595}
+[19May2025 06:14:03.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=-53, z=-596} BlockPos{x=158, y=-53, z=-595}
+[19May2025 06:14:10.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=140, y=-55, z=-587} BlockPos{x=139, y=-55, z=-587}
+[19May2025 06:14:10.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=140, y=-55, z=-587} BlockPos{x=139, y=-55, z=-587}
+[19May2025 06:14:35.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=151, y=-53, z=-593} BlockPos{x=150, y=-54, z=-593}
+[19May2025 06:15:22.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=-46, z=-588} BlockPos{x=227, y=-47, z=-588}
+[19May2025 06:15:28.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=-45, z=-584} BlockPos{x=228, y=-46, z=-584}
+[19May2025 06:15:28.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=228, y=-46, z=-584} BlockPos{x=227, y=-46, z=-582}
+[19May2025 06:16:28.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=-41, z=-576} BlockPos{x=222, y=-41, z=-575}
+[19May2025 06:16:28.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=-41, z=-576} BlockPos{x=222, y=-41, z=-575}
+[19May2025 06:16:28.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=222, y=-41, z=-576} BlockPos{x=222, y=-41, z=-575}
+[19May2025 06:16:29.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=-39, z=-575} BlockPos{x=223, y=-40, z=-575}
+[19May2025 06:17:05.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=-42, z=-584} BlockPos{x=225, y=-42, z=-583}
+[19May2025 06:17:07.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=224, y=-49, z=-586} BlockPos{x=223, y=-49, z=-585}
+[19May2025 06:17:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Acquire Hardware]
+[19May2025 06:17:32.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Suit Up]
