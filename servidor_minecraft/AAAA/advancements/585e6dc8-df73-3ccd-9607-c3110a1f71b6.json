@@ -1370,6 +1370,7 @@
       "minecraft:stony_shore": "2025-05-18 05:23:11 +0000",
       "minecraft:forest": "2025-05-18 04:36:22 +0000",
       "minecraft:lush_caves": "2025-05-18 04:41:54 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-19 23:42:48 +0000",
       "minecraft:deep_dark": "2025-05-18 05:11:59 +0000",
       "minecraft:savanna": "2025-05-19 20:12:54 +0000",
       "minecraft:plains": "2025-05-18 05:23:24 +0000"
@@ -5524,6 +5525,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-19 23:43:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 20:19:49 +0000"
@@ -6091,6 +6098,12 @@
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-19 19:36:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-19 23:43:46 +0000"
     },
     "done": true
   },
