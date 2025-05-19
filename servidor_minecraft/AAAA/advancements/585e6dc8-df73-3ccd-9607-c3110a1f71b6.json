@@ -1365,6 +1365,7 @@
       "minecraft:stony_peaks": "2025-05-18 04:25:05 +0000",
       "minecraft:sparse_jungle": "2025-05-18 04:36:26 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 04:07:45 +0000",
+      "minecraft:river": "2025-05-19 23:20:02 +0000",
       "minecraft:stony_shore": "2025-05-18 05:23:11 +0000",
       "minecraft:forest": "2025-05-18 04:36:22 +0000",
       "minecraft:lush_caves": "2025-05-18 04:41:54 +0000",
@@ -1484,6 +1485,7 @@
       "tropical_fish": "2025-05-18 05:07:54 +0000",
       "apple": "2025-05-18 04:45:40 +0000",
       "bread": "2025-05-19 06:08:05 +0000",
+      "golden_apple": "2025-05-19 23:20:07 +0000",
       "dried_kelp": "2025-05-18 04:10:31 +0000",
       "beetroot": "2025-05-18 04:12:20 +0000",
       "cooked_rabbit": "2025-05-18 05:10:12 +0000",
@@ -4998,6 +5000,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-19 23:18:51 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-19 20:39:09 +0000"
@@ -6731,6 +6739,12 @@
       "has_gray_wool": "2025-05-19 20:09:29 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-19 23:18:51 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_mangrove_stool": {
     "criteria": {

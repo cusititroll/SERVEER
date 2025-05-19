@@ -1330,3 +1330,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 22:56:47.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
 [19May2025 23:10:26.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Cover Me with Diamonds]
 [19May2025 23:11:16.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"HORNOS", x:-582, y:-58, z:-1094, dim:minecraft:overworld]
+[19May2025 23:18:51.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Quite the Renovation]
