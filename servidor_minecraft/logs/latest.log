@@ -112,3 +112,57 @@
 [20May2025 01:54:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was slain by Vindicator
 [20May2025 01:54:00.141] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(36, 72, 22) minecraft:overworld
 [20May2025 01:55:03.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20May2025 01:56:16.363] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/199130, l='ServerLevel[AAAA]', x=49.50, y=51.00, z=108.50]
+[20May2025 01:57:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was slain by Vindicator
+[20May2025 01:57:28.878] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(39, 70, 27) minecraft:overworld
+[20May2025 01:58:14.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri was kicked for floating too long!
+[20May2025 01:58:14.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri lost connection: Flying is not enabled on this server
+[20May2025 01:58:14.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri left the game
+[20May2025 01:58:29.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kokiri[/127.111.136.12:46889] logged in with entity id 201028 at (29.41952039478391, 80.16017123466071, 32.280824018071314)
+[20May2025 01:58:29.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri joined the game
+[20May2025 01:58:29.475] [Server thread/INFO] [Jade/]: Syncing config to Kokiri (34b7c59a-e80e-318b-af9e-630efabd3250)
+[20May2025 01:58:33.408] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/201313, l='ServerLevel[AAAA]', x=46.50, y=45.00, z=115.50]
+[20May2025 01:58:48.550] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20May2025 01:58:48.550] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_gloves
+[20May2025 01:59:04.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
+[20May2025 01:59:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[20May2025 01:59:34.110] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/202152, l='ServerLevel[AAAA]', x=42.50, y=43.00, z=115.50]
+[20May2025 02:00:12.912] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/202941, l='ServerLevel[AAAA]', x=34.50, y=51.00, z=111.50]
+[20May2025 02:00:12.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.42.76.176:38661] logged in with entity id 202942 at (328.2389880158287, 116.0, -600.3450258286848)
+[20May2025 02:00:12.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
+[20May2025 02:00:13.040] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)
+[20May2025 02:00:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was slain by Vindicator
+[20May2025 02:00:15.680] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(39, 72, 22) minecraft:overworld
+[20May2025 02:00:56.260] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/203774, l='ServerLevel[AAAA]', x=42.50, y=49.00, z=108.50]
+[20May2025 02:00:56.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri was kicked for floating too long!
+[20May2025 02:00:56.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri lost connection: Flying is not enabled on this server
+[20May2025 02:00:56.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri left the game
+[20May2025 02:01:08.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kokiri[/127.111.136.12:45491] logged in with entity id 203896 at (32.757939715560816, 84.23527968815394, 39.564768324478386)
+[20May2025 02:01:08.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri joined the game
+[20May2025 02:01:08.886] [Server thread/INFO] [Jade/]: Syncing config to Kokiri (34b7c59a-e80e-318b-af9e-630efabd3250)
+[20May2025 02:01:29.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20May2025 02:01:29.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_gloves
+[20May2025 02:01:37.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey has made the advancement [Unusual Prehistory]
+[20May2025 02:03:25.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Diamonds!]
+[20May2025 02:06:35.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.7.141.189:34857] logged in with entity id 207274 at (222.00447707611087, 117.0, -754.3128253647797)
+[20May2025 02:06:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[20May2025 02:06:36.031] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[20May2025 02:07:06.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Banned IP 127.111.136.12: Banned by an operator.]
+[20May2025 02:07:06.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: This ban affects 1 player(s): Kokiri]
+[20May2025 02:07:06.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri lost connection: You have been IP banned from this server
+[20May2025 02:07:06.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri left the game
+[20May2025 02:10:35.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Ice Bucket Challenge]
+[20May2025 02:11:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Worsening Nightmares]
+[20May2025 02:11:09.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Night Sky Stalkers]
+[20May2025 02:11:23.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Cover Me with Diamonds]
+[20May2025 02:12:04.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Monster Hunter]
+[20May2025 02:14:09.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Cave Spider
+[20May2025 02:14:09.672] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(99, 64, -1024) minecraft:overworld
+[20May2025 02:18:10.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 moved wrongly!
+[20May2025 02:18:11.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Botfly
+[20May2025 02:18:11.327] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(94, 61, -1024) minecraft:overworld
+[20May2025 02:23:39.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Husk
+[20May2025 02:23:39.774] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(95, 61, -1024) minecraft:overworld
+[20May2025 02:24:21.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Cave Spider
+[20May2025 02:24:21.872] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(94, 61, -1025) minecraft:overworld
+[20May2025 02:25:23.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Husk

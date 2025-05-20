@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "ip": "127.111.136.12",
+    "created": "2025-05-20 02:07:06 +0000",
+    "source": "PandagamerP",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

@@ -5293,6 +5293,12 @@
     },
     "done": true
   },
+  "minecraft:main/root": {
+    "criteria": {
+      "acquired_encyclopedia": "2025-05-20 02:01:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/standard_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
@@ -6232,6 +6238,12 @@
   "minecraft:recipes/tools/ocelot_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-05-20 01:02:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-20 02:19:50 +0000"
     },
     "done": true
   },
