@@ -14,3 +14,31 @@
 [20May2025 00:34:45.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kokiri[/127.111.136.12:35993] logged in with entity id 138199 at (34.5, 74.0, -165.5)
 [20May2025 00:34:45.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri joined the game
 [20May2025 00:34:45.785] [Server thread/INFO] [Jade/]: Syncing config to Kokiri (34b7c59a-e80e-318b-af9e-630efabd3250)
+[20May2025 00:35:32.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Alex's Mobs]
+[20May2025 00:35:42.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=72, z=-152}
+[20May2025 00:35:44.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=73, z=-152}
+[20May2025 00:35:57.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=71, z=-152}
+[20May2025 00:35:58.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=72, z=-152}
+[20May2025 00:35:58.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=71, z=-150}
+[20May2025 00:35:58.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=71, z=-150}
+[20May2025 00:35:58.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=71, z=-150}
+[20May2025 00:35:59.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=71, z=-150}
+[20May2025 00:35:59.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=71, z=-151}
+[20May2025 00:35:59.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=71, z=-151}
+[20May2025 00:35:59.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=27, y=71, z=-151}
+[20May2025 00:35:59.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=71, z=-151}
+[20May2025 00:35:59.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=71, z=-151}
+[20May2025 00:35:59.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=70, z=-150}
+[20May2025 00:35:59.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=70, z=-150}
+[20May2025 00:36:00.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=70, z=-150}
+[20May2025 00:36:00.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=70, z=-150}
+[20May2025 00:36:00.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=70, z=-149}
+[20May2025 00:36:00.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=23, y=70, z=-149}
+[20May2025 00:36:00.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=23, y=70, z=-148}
+[20May2025 00:37:44.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Stone Age]
+[20May2025 00:38:18.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Getting an Upgrade]
+[20May2025 00:41:42.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.47.174.134:49171] logged in with entity id 140405 at (119.26380252310062, 133.0, -469.71557093757343)
+[20May2025 00:41:42.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[20May2025 00:41:42.317] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[20May2025 00:42:30.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [What a Deal!]
+[20May2025 00:43:14.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Sweet Dreams]
