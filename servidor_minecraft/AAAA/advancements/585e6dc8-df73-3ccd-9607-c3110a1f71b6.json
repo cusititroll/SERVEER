@@ -4774,6 +4774,12 @@
     },
     "done": true
   },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-05-19 23:55:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-19 19:36:14 +0000"
@@ -4912,6 +4918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-19 23:54:52 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-19 20:39:09 +0000"
@@ -4929,6 +4941,12 @@
       "in_mineshaft_savanna": "2025-05-19 20:15:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 23:55:01 +0000"
+    },
+    "done": true
   },
   "valhelsia_furniture:recipes/decorations/brown_warped_table": {
     "criteria": {
@@ -5230,6 +5248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 23:55:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_chair": {
     "criteria": {
       "has_white_wool": "2025-05-19 20:07:57 +0000"
@@ -5254,6 +5278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-19 23:54:52 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-05-19 20:07:57 +0000"
@@ -5263,6 +5293,12 @@
   "valhelsia_furniture:recipes/decorations/gray_birch_chair": {
     "criteria": {
       "has_gray_wool": "2025-05-19 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-19 23:54:52 +0000"
     },
     "done": true
   },
@@ -5335,6 +5371,12 @@
   "cfm:recipes/decorations/acacia_blinds": {
     "criteria": {
       "has_log": "2025-05-19 20:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 23:55:01 +0000"
     },
     "done": true
   },
@@ -5552,6 +5594,12 @@
   "valhelsia_furniture:recipes/decorations/lime_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-19 20:39:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-05-19 23:52:47 +0000"
     },
     "done": true
   },
@@ -5894,6 +5942,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-05-19 20:19:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-19 23:52:43 +0000"
     },
     "done": true
   },
@@ -6836,6 +6890,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-05-19 20:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-19 23:54:52 +0000"
     },
     "done": true
   },

@@ -99,6 +99,7 @@
     "criteria": {
       "shrubland": "2025-05-19 22:41:16 +0000",
       "ancient_delta": "2025-05-19 23:42:37 +0000",
+      "redstone_caves": "2025-05-19 23:56:07 +0000",
       "grassy_beach": "2025-05-19 20:43:19 +0000",
       "scorching_caves": "2025-05-19 22:46:14 +0000",
       "magnolia_highlands": "2025-05-18 04:12:50 +0000",
@@ -5806,6 +5807,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-05-19 23:56:07 +0000",
       "scorching_caves": "2025-05-19 22:46:14 +0000",
       "ancient_delta": "2025-05-19 23:42:37 +0000"
     },
