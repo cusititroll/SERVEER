@@ -5940,6 +5940,12 @@
     },
     "done": true
   },
+  "spawn:recipes/snail/ghostly_mucus_block_from_phantom_membrane": {
+    "criteria": {
+      "has_raw_item": "2025-05-20 02:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-05-20 02:11:20 +0000"
@@ -5955,6 +5961,12 @@
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-05-20 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2025-05-20 02:24:38 +0000"
     },
     "done": true
   },
