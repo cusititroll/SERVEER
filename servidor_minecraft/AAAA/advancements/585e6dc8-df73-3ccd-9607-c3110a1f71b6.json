@@ -104,6 +104,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-05-19 22:41:17 +0000",
+      "ancient_delta": "2025-05-20 01:14:29 +0000",
       "redstone_caves": "2025-05-19 23:35:46 +0000",
       "grassy_beach": "2025-05-19 20:21:33 +0000",
       "scorching_caves": "2025-05-19 22:57:08 +0000",
@@ -1370,6 +1371,7 @@
       "minecraft:stony_shore": "2025-05-18 05:23:11 +0000",
       "minecraft:forest": "2025-05-18 04:36:22 +0000",
       "minecraft:lush_caves": "2025-05-18 04:41:54 +0000",
+      "minecraft:ocean": "2025-05-20 01:13:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-19 23:42:48 +0000",
       "minecraft:deep_dark": "2025-05-18 05:11:59 +0000",
       "minecraft:savanna": "2025-05-19 20:12:54 +0000",
@@ -6967,7 +6969,8 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-05-19 23:35:46 +0000",
-      "scorching_caves": "2025-05-19 22:57:08 +0000"
+      "scorching_caves": "2025-05-19 22:57:08 +0000",
+      "ancient_delta": "2025-05-20 01:14:29 +0000"
     },
     "done": false
   },
@@ -7208,6 +7211,270 @@
   "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
     "criteria": {
       "has_white_magnolia_sapling": "2025-05-20 00:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/cultivator": {
+    "criteria": {
+      "cultivator": "2025-05-20 01:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/root": {
+    "criteria": {
+      "acquired_encyclopedia": "2025-05-20 01:19:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/opal_fossil": {
+    "criteria": {
+      "opal_fossil": "2025-05-20 01:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/analyzer": {
+    "criteria": {
+      "anaylzer": "2025-05-20 01:29:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_cherry_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_birch_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_stool": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_dark_oak_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_stool": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_stool": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-20 01:41:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-20 00:46:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/red_cape": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_stool": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-20 01:38:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-05-20 01:40:48 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_stool": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-20 01:41:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_stool": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-05-20 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-20 01:41:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_chair": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_curtain": {
+    "criteria": {
+      "has_item": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_stool": {
+    "criteria": {
+      "has_red_wool": "2025-05-20 00:52:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-05-20 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/plants": {
+    "criteria": {
+      "archao_flask": "2025-05-20 01:51:36 +0000"
     },
     "done": true
   },

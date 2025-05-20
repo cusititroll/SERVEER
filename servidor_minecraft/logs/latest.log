@@ -42,3 +42,73 @@
 [20May2025 00:41:42.317] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
 [20May2025 00:42:30.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [What a Deal!]
 [20May2025 00:43:14.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Sweet Dreams]
+[20May2025 00:45:23.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Acquire Hardware]
+[20May2025 00:45:32.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Isn't It Iron Pick]
+[20May2025 00:45:35.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Suit Up]
+[20May2025 00:45:39.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ModelOsprey[/127.151.69.182:48185] logged in with entity id 141014 at (70.74530592045636, 209.0, -915.7443834292936)
+[20May2025 00:45:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey joined the game
+[20May2025 00:45:39.922] [Server thread/INFO] [Jade/]: Syncing config to ModelOsprey (af3d48e9-4c69-3ac2-8398-bdaf0b15cfdc)
+[20May2025 00:45:44.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was shot by Wither Skeleton
+[20May2025 00:45:44.477] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(70, 209, -916) minecraft:overworld
+[20May2025 00:47:37.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was burnt to a crisp whilst fighting Wither Skeleton
+[20May2025 00:47:37.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(93, 229, -930) minecraft:overworld
+[20May2025 00:48:07.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.42.76.176:42939] logged in with entity id 143666 at (122.09485894117095, 137.0, -470.93363580938757)
+[20May2025 00:48:07.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
+[20May2025 00:48:07.878] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)
+[20May2025 00:49:43.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Monster Hunter]
+[20May2025 00:57:10.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Cover Me with Diamonds]
+[20May2025 00:57:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"Aldeanos puerto", x:-544, y:65, z:-662, dim:minecraft:overworld]
+[20May2025 01:00:20.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [The Power of the Abyss in the Palm of My Hand...]
+[20May2025 01:03:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has completed the challenge [The Power of the Sun]
+[20May2025 01:11:22.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey has made the advancement [What a Deal!]
+[20May2025 01:14:20.967] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.976] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.978] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.978] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.980] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.981] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.981] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.982] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.984] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.984] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.986] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.987] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.988] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.989] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.989] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.992] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.992] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.992] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.994] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:20.998] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:14:21.000] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 01:19:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey has made the advancement [Blindfolded]
+[20May2025 01:19:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Unusual Prehistory]
+[20May2025 01:25:53.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Pic-A-Nic Basket?]
+[20May2025 01:25:57.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was slain by Grizzly Bear
+[20May2025 01:25:57.622] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(297, 91, -1029) minecraft:overworld
+[20May2025 01:29:44.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Sciency Science Doodad]
+[20May2025 01:36:49.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [You Are A Pirate]
+[20May2025 01:36:52.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was slain by Ocean Creeper
+[20May2025 01:36:52.273] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(33, 64, 16) minecraft:overworld
+[20May2025 01:40:31.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri drowned
+[20May2025 01:41:24.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri moved wrongly!
+[20May2025 01:41:46.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Its Time to Cook Jesse]
+[20May2025 01:42:18.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"ALDEANO ZOMBIE 2", x:-560, y:78, z:-1104, dim:minecraft:overworld]
+[20May2025 01:43:06.908] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/187857, l='ServerLevel[AAAA]', x=41.50, y=44.00, z=107.50]
+[20May2025 01:43:18.212] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/188015, l='ServerLevel[AAAA]', x=32.50, y=46.00, z=108.50]
+[20May2025 01:51:36.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Unusual Botany]
+[20May2025 01:52:03.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri was kicked for floating too long!
+[20May2025 01:52:03.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri lost connection: Flying is not enabled on this server
+[20May2025 01:52:03.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri left the game
+[20May2025 01:52:03.514] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20May2025 01:52:20.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kokiri[/127.111.136.12:51077] logged in with entity id 195217 at (40.70641589396345, 91.16017123466071, 10.950842632559127)
+[20May2025 01:52:20.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri joined the game
+[20May2025 01:52:20.391] [Server thread/INFO] [Jade/]: Syncing config to Kokiri (34b7c59a-e80e-318b-af9e-630efabd3250)
+[20May2025 01:52:21.115] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/195350, l='ServerLevel[AAAA]', x=38.50, y=50.00, z=112.50]
+[20May2025 01:52:22.759] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/195442, l='ServerLevel[AAAA]', x=44.50, y=44.00, z=115.50]
+[20May2025 01:52:41.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Not Today, Thank You]
+[20May2025 01:53:08.710] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/196272, l='ServerLevel[AAAA]', x=31.50, y=49.00, z=114.50]
+[20May2025 01:54:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was slain by Vindicator
+[20May2025 01:54:00.141] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(36, 72, 22) minecraft:overworld
+[20May2025 01:55:03.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
