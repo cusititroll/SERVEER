@@ -11,3 +11,6 @@
 [20May2025 00:20:39.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
 [20May2025 00:22:19.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
 [20May2025 00:22:19.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[20May2025 00:34:45.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kokiri[/127.111.136.12:35993] logged in with entity id 138199 at (34.5, 74.0, -165.5)
+[20May2025 00:34:45.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri joined the game
+[20May2025 00:34:45.785] [Server thread/INFO] [Jade/]: Syncing config to Kokiri (34b7c59a-e80e-318b-af9e-630efabd3250)
