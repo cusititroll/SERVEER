@@ -2758,6 +2758,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-05-20 02:37:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-05-20 02:26:48 +0000"
@@ -2808,6 +2814,12 @@
     },
     "done": false
   },
+  "ecologics:recipes/ecologics/coconut_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-20 02:37:06 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
     "criteria": {
       "crab_meat": "2025-05-20 02:10:13 +0000"
@@ -2832,15 +2844,33 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-05-20 02:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-20 02:05:57 +0000"
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_slab": {
+    "criteria": {
+      "has_planks": "2025-05-20 02:37:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-20 02:26:48 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-20 02:37:06 +0000"
     },
     "done": true
   },
@@ -2868,6 +2898,18 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-20 02:37:06 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_door": {
+    "criteria": {
+      "has_planks": "2025-05-20 02:37:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-05-20 02:07:20 +0000"
@@ -2886,9 +2928,21 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 02:37:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_blinds": {
     "criteria": {
       "has_log": "2025-05-20 02:05:57 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-05-20 02:37:07 +0000"
     },
     "done": true
   },
@@ -2946,15 +3000,39 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_sign": {
+    "criteria": {
+      "has_planks": "2025-05-20 02:37:06 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-20 02:37:06 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/stripped_oak_post": {
     "criteria": {
       "has_item": "2025-05-20 02:05:57 +0000"
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_fence": {
+    "criteria": {
+      "has_planks": "2025-05-20 02:37:06 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
       "has_brown_mushroom": "2025-05-20 02:08:05 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_button": {
+    "criteria": {
+      "has_planks": "2025-05-20 02:37:06 +0000"
     },
     "done": true
   },
@@ -2985,6 +3063,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-20 02:17:33 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_planks": {
+    "criteria": {
+      "has_logs": "2025-05-20 02:37:00 +0000"
     },
     "done": true
   },
@@ -3027,6 +3111,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-20 02:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-20 02:37:07 +0000"
     },
     "done": true
   },
