@@ -189,3 +189,245 @@
 [20May2025 02:44:16.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> que quiero coger ojos de araña
 [20May2025 02:44:20.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> para mi mochilita
 [20May2025 02:44:34.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ModelOsprey> apura oe
+[20May2025 02:47:35.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[20May2025 02:47:35.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[20May2025 02:47:47.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.7.141.189:45429] logged in with entity id 244935 at (122.51412100726269, 125.0, -498.7353190724404)
+[20May2025 02:47:47.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[20May2025 02:47:47.511] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[20May2025 02:50:44.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Best Friends Forever]
+[20May2025 02:52:54.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved wrongly! 0.36378901739180947
+[20May2025 02:52:54.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved wrongly! 0.7529579153572286
+[20May2025 02:52:54.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved wrongly! 1.1171564272633532
+[20May2025 02:54:48.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> [name:"aldea", x:-746, y:140, z:-1478, dim:minecraft:overworld]
+[20May2025 02:55:13.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
+[20May2025 02:55:14.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -10.02669512065961,2.0,-0.9381715582828747
+[20May2025 02:55:14.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -10.464707523625066,2.0,-0.9522227082743484
+[20May2025 02:55:14.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -10.902769678064487,2.0,-0.9651283053924544
+[20May2025 02:55:14.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -11.340872277237281,2.0,-0.9771473855623753
+[20May2025 02:55:14.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -11.779007214152784,2.0,-0.9884555914186421
+[20May2025 02:55:14.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -12.217167524228444,2.0,-0.9991901931512075
+[20May2025 02:55:14.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -12.655349975266063,2.0,-1.0092371905018354
+[20May2025 02:55:14.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -13.093550207737735,2.0,-1.0187504914720193
+[20May2025 02:55:14.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -13.531766510358693,2.0,-1.0276296817755792
+[20May2025 02:55:14.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! -13.969997106914207,2.0,-1.0358982340742386
+[20May2025 02:55:32.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[20May2025 02:55:59.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 7.260631530560772,-1.0,-7.2706892819057884
+[20May2025 02:55:59.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 7.702269924385291,-1.0,-7.3224210886876335
+[20May2025 02:55:59.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 8.145972153470098,-1.0,-7.365279437246272
+[20May2025 02:55:59.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 8.590778699654265,-1.0,-7.403389775227424
+[20May2025 02:55:59.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 9.036176143900661,-1.0,-7.438959547413788
+[20May2025 02:55:59.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 9.481902791928405,-1.0,-7.472990958297032
+[20May2025 02:55:59.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 9.927964407879017,-1.0,-7.503812131635414
+[20May2025 02:55:59.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 10.374299045755492,0.0,-7.531263512561736
+[20May2025 02:55:59.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 10.820789150947917,0.0,-7.556732602293096
+[20May2025 02:55:59.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Isaaac_173) moved too quickly! 11.267371678210793,0.0,-7.580961813980821
+[20May2025 02:59:02.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Diamonds!]
+[20May2025 02:59:53.174] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ModelOsprey with unique ID d1fdc64e-903f-43ad-9305-564b97712119
+[20May2025 02:59:53.175] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -563 Y: 62 Z: -648
+[20May2025 02:59:53.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Cachalot Whale
+[20May2025 02:59:53.178] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-563, 62, -647) minecraft:overworld
+[20May2025 03:00:03.125] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20May2025 03:00:19.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 was slain by Cachalot Whale
+[20May2025 03:00:19.483] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-548, 51, -627) minecraft:overworld
+[20May2025 03:00:30.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"Aldeanos puerto", x:-544, y:65, z:-662, dim:minecraft:overworld]
+[20May2025 03:02:01.855] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:02:01.895] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:02:01.897] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[20May2025 03:02:01.927] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[20May2025 03:02:01.927] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:02:02.025] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:02:02.041] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[20May2025 03:02:02.102] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:02:02.270] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:02:02.303] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:02:02.375] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[20May2025 03:02:02.414] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:02:02.515] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:02:02.608] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:02:02.621] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[20May2025 03:02:02.996] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:02:03.273] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:02:03.439] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:02:03.654] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:02:04.384] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:02:04.461] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[20May2025 03:02:04.920] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:02:05.125] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:04:38.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.4545669443921554
+[20May2025 03:04:38.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.6612388816153612
+[20May2025 03:04:38.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.3784201837406158
+[20May2025 03:04:38.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.5923922093559071
+[20May2025 03:04:51.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -1.5739080030061814,0.0,10.280145326427487
+[20May2025 03:04:51.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 9.484605539536233,0.0,4.26549448448543
+[20May2025 03:04:51.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 9.849398060287626,0.0,4.429551964657946
+[20May2025 03:04:51.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -1.6344866464826282,0.0,10.675530930871354
+[20May2025 03:04:51.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 10.21419058103902,0.0,4.593609444830463
+[20May2025 03:04:51.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -1.695066247018758,0.0,11.070916434609664
+[20May2025 03:04:51.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -1.755646708908671,0.0,11.466301847712984
+[20May2025 03:04:51.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 10.578983101790413,0.0,4.7576669250029795
+[20May2025 03:04:51.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 10.943775622541807,0.0,4.921724405175496
+[20May2025 03:04:51.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -1.816227946016852,0.0,11.86168717924481
+[20May2025 03:04:51.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 11.3085681432932,0.0,5.085781885348013
+[20May2025 03:04:51.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -1.8768098808213836,0.0,12.257072437362297
+[20May2025 03:04:51.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -1.9373924435526533,0.0,12.652457629406882
+[20May2025 03:04:51.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 11.673360664044594,0.0,5.249839365520529
+[20May2025 03:04:51.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 12.038153184795988,0.0,5.413896845693046
+[20May2025 03:04:51.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -1.99797557141801,0.0,13.047842761985855
+[20May2025 03:04:51.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 12.402945705547381,0.0,5.577954325865562
+[20May2025 03:04:51.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -2.0585592079041817,0.0,13.443227841045776
+[20May2025 03:04:51.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 12.767738226298775,0.0,5.742011806038079
+[20May2025 03:04:51.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -2.1191433021488137,0.0,13.838612871938551
+[20May2025 03:04:51.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 13.132530747050168,0.0,5.906069286210595
+[20May2025 03:04:51.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -2.179727808376356,0.0,14.233997859480901
+[20May2025 03:04:51.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 13.497323267801562,0.0,6.070126766383112
+[20May2025 03:04:51.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -2.2403126853882895,0.0,14.629382808007868
+[20May2025 03:04:51.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 13.862115788552956,0.0,6.234184246555628
+[20May2025 03:04:51.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -2.3008978961061075,0.0,15.024767721420993
+[20May2025 03:04:51.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 14.22690830930435,0.0,6.398241726728145
+[20May2025 03:04:51.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -2.3614834071593123,0.0,15.420152603231656
+[20May2025 03:04:51.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 14.591700830055743,0.0,6.562299206900661
+[20May2025 03:04:51.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -2.4220691885143424,0.0,15.815537456600104
+[20May2025 03:04:51.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 14.956493350807136,0.0,6.726356687073178
+[20May2025 03:04:51.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -2.4826552131410153,0.0,16.210922284370564
+[20May2025 03:04:51.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved too quickly! -2.543241456712167,0.0,16.60630708910283
+[20May2025 03:04:51.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ModelOsprey) moved too quickly! 15.32128587155853,0.0,6.890414167245694
+[20May2025 03:04:51.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[20May2025 03:05:47.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[20May2025 03:05:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[20May2025 03:05:59.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.7.141.189:36045] logged in with entity id 269761 at (-1046.698603541048, 61.41044432654891, 173.5374555183413)
+[20May2025 03:05:59.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[20May2025 03:06:00.048] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[20May2025 03:06:23.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[20May2025 03:06:23.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[20May2025 03:06:30.107] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.107] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.108] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.108] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.109] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.109] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.109] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.110] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.110] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.111] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.111] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.111] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.112] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.112] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.115] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.115] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.115] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.117] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.117] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.118] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.120] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.120] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.120] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.122] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.123] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.123] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:30.123] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:36.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.47.174.134:48401] logged in with entity id 272412 at (-1100.300000011921, 63.1212968405392, 136.21349844896315)
+[20May2025 03:06:36.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[20May2025 03:06:36.546] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[20May2025 03:06:40.186] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.187] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.187] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.187] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.187] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.188] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.188] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.189] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.189] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.190] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.191] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.191] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:06:40.192] [Worker-Main280/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.455] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.456] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.456] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.456] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.456] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.457] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.457] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.457] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.457] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.459] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.459] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.459] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.460] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.460] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.460] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.461] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.462] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.463] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:07:53.463] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:09:42.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.4281194050307704
+[20May2025 03:09:42.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.7073227551605896
+[20May2025 03:09:42.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 1.1581281366696885
+[20May2025 03:09:42.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 1.1581281366696885
+[20May2025 03:09:42.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.8786928344927674
+[20May2025 03:09:42.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 1.1581281366696885
+[20May2025 03:09:42.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.9518095238965998
+[20May2025 03:09:42.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.9518095238965998
+[20May2025 03:09:42.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.9518095238965998
+[20May2025 03:09:42.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Casti414) moved wrongly! 0.9507961553974837
+[20May2025 03:09:48.533] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/281902, l='ServerLevel[AAAA]', x=101.50, y=8.00, z=1723.50]
+[20May2025 03:10:16.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/283856, l='ServerLevel[AAAA]', x=-446.50, y=8.00, z=586.50]
+[20May2025 03:10:39.021] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:10:39.884] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:10:40.026] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:10:40.289] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:10:41.286] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:10:41.336] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:10:43.178] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:10:43.262] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:10:43.262] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:10:43.730] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[20May2025 03:10:43.776] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[20May2025 03:10:43.777] [Worker-Main252/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[20May2025 03:12:27.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/292277, l='ServerLevel[AAAA]', x=98.50, y=8.00, z=1722.50]
+[20May2025 03:12:43.467] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/293870, l='ServerLevel[AAAA]', x=100.50, y=9.00, z=1720.50]
+[20May2025 03:12:53.236] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.237] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.237] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.237] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.238] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.239] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.239] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.239] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.240] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.241] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.241] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.241] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.241] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.241] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.242] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.242] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.242] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.243] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.243] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.243] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.244] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.244] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:12:53.245] [Worker-Main281/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[20May2025 03:13:07.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20May2025 03:13:07.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20May2025 03:13:07.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Server closed
+[20May2025 03:13:07.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[20May2025 03:13:07.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Server closed
+[20May2025 03:13:07.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[20May2025 03:13:07.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20May2025 03:13:17.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:overworld
+[20May2025 03:13:20.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/aether:the_aether
+[20May2025 03:13:20.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/twilightforest:twilight_forest
+[20May2025 03:13:20.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_end
+[20May2025 03:13:20.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_nether
+[20May2025 03:13:20.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/deeperdarker:otherside
+[20May2025 03:13:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (AAAA): All chunks are saved
+[20May2025 03:13:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[20May2025 03:13:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20May2025 03:13:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20May2025 03:13:20.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20May2025 03:13:20.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20May2025 03:13:20.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20May2025 03:13:20.832] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

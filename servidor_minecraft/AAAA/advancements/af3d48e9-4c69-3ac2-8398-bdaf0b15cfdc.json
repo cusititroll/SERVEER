@@ -109,6 +109,7 @@
       "magnolia_highlands": "2025-05-18 04:09:02 +0000",
       "sparse_redwoods": "2025-05-18 05:04:51 +0000",
       "deciduous_forest": "2025-05-18 03:50:12 +0000",
+      "bamboo_forest": "2025-05-20 03:05:26 +0000",
       "grassland": "2025-05-18 04:06:02 +0000",
       "redwoods": "2025-05-18 04:08:45 +0000"
     },
@@ -120,6 +121,7 @@
       "magnolia_highlands": "2025-05-18 04:09:02 +0000",
       "sparse_redwoods": "2025-05-18 05:04:51 +0000",
       "deciduous_forest": "2025-05-18 03:50:12 +0000",
+      "bamboo_forest": "2025-05-20 03:05:26 +0000",
       "grassland": "2025-05-18 04:06:02 +0000",
       "redwoods": "2025-05-18 04:08:45 +0000"
     },
@@ -1589,11 +1591,13 @@
       "minecraft:stony_peaks": "2025-05-18 04:22:27 +0000",
       "minecraft:sparse_jungle": "2025-05-18 04:53:09 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 04:06:52 +0000",
+      "minecraft:river": "2025-05-20 03:05:28 +0000",
       "minecraft:stony_shore": "2025-05-19 01:11:28 +0000",
       "minecraft:dripstone_caves": "2025-05-19 01:20:35 +0000",
       "minecraft:forest": "2025-05-18 04:53:04 +0000",
       "minecraft:lush_caves": "2025-05-18 04:55:36 +0000",
       "minecraft:jungle": "2025-05-18 04:53:00 +0000",
+      "minecraft:ocean": "2025-05-20 03:03:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-19 01:21:12 +0000",
       "minecraft:deep_dark": "2025-05-18 05:28:06 +0000",
       "minecraft:plains": "2025-05-19 01:03:21 +0000"
@@ -5215,6 +5219,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-20 03:12:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/melon_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-20 01:01:40 +0000"
@@ -5230,6 +5306,24 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-05-20 01:44:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5260,6 +5354,12 @@
   "minecraft:recipes/tools/bookshelf_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-20 01:01:40 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5305,6 +5405,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-20 01:01:40 +0000"
@@ -5314,6 +5420,12 @@
   "minecraft:recipes/tools/bee_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5383,6 +5495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/dragon_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
@@ -5413,6 +5531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-20 01:44:31 +0000"
@@ -5440,6 +5564,12 @@
   "minecraft:recipes/tools/iron_golem_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5503,6 +5633,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/end_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
@@ -5545,6 +5687,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/bee_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-05-20 01:02:36 +0000"
@@ -5569,9 +5717,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/coal_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-05-20 01:02:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5611,9 +5783,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/coal_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5668,6 +5858,12 @@
   "minecraft:recipes/tools/snow_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-05-20 01:02:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5749,9 +5945,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/standard_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-05-20 01:02:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5770,6 +5978,24 @@
   "minecraft:recipes/tools/pig_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5806,6 +6032,12 @@
   "cfm:recipes/decorations/gray_picket_gate": {
     "criteria": {
       "has_concrete": "2025-05-20 00:52:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -5869,6 +6101,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/bookshelf_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
@@ -5929,6 +6173,18 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/sponge_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-20 01:01:40 +0000"
@@ -5977,6 +6233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/squid_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
@@ -5992,6 +6260,12 @@
   "minecraft:recipes/tools/gold_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-20 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -6019,9 +6293,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/sandstone_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-20 01:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -6034,6 +6320,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-20 01:44:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -6064,6 +6356,12 @@
   "minecraft:recipes/tools/bee_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-20 01:01:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -6106,6 +6404,12 @@
   "cfm:recipes/decorations/light_gray_picket_fence": {
     "criteria": {
       "has_concrete": "2025-05-20 00:52:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
@@ -6226,6 +6530,12 @@
   "minecraft:recipes/tools/standard_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-20 01:01:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 03:00:56 +0000"
     },
     "done": true
   },
