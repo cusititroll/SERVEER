@@ -103,12 +103,15 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "willow_forest": "2025-05-20 05:03:58 +0000",
       "grassy_beach": "2025-05-20 00:37:40 +0000",
       "magnolia_highlands": "2025-05-20 00:42:05 +0000",
       "sparse_redwoods": "2025-05-20 01:13:14 +0000",
       "deciduous_forest": "2025-05-20 00:34:46 +0000",
+      "boreal_forest": "2025-05-20 05:04:49 +0000",
       "chalk_cliffs": "2025-05-20 01:17:00 +0000",
       "bamboo_forest": "2025-05-20 01:34:04 +0000",
+      "temperate_grove": "2025-05-20 05:04:43 +0000",
       "grassland": "2025-05-20 00:40:14 +0000",
       "redwoods": "2025-05-20 00:41:10 +0000"
     },
@@ -116,12 +119,15 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "willow_forest": "2025-05-20 05:03:58 +0000",
       "grassy_beach": "2025-05-20 00:37:40 +0000",
       "magnolia_highlands": "2025-05-20 00:42:05 +0000",
       "sparse_redwoods": "2025-05-20 01:13:14 +0000",
       "deciduous_forest": "2025-05-20 00:34:46 +0000",
+      "boreal_forest": "2025-05-20 05:04:49 +0000",
       "chalk_cliffs": "2025-05-20 01:17:00 +0000",
       "bamboo_forest": "2025-05-20 01:34:04 +0000",
+      "temperate_grove": "2025-05-20 05:04:43 +0000",
       "grassland": "2025-05-20 00:40:14 +0000",
       "redwoods": "2025-05-20 00:41:10 +0000"
     },
@@ -1966,6 +1972,8 @@
       "minecraft:vindicator": "2025-05-20 01:56:44 +0000",
       "minecraft:spider": "2025-05-20 01:21:04 +0000",
       "minecraft:creeper": "2025-05-20 01:25:52 +0000",
+      "minecraft:wither_skeleton": "2025-05-20 05:07:47 +0000",
+      "minecraft:cave_spider": "2025-05-20 05:05:09 +0000",
       "minecraft:zombie": "2025-05-20 00:49:43 +0000"
     },
     "done": false
@@ -2486,9 +2494,11 @@
       "minecraft:stony_peaks": "2025-05-20 00:59:16 +0000",
       "minecraft:sparse_jungle": "2025-05-20 01:17:08 +0000",
       "minecraft:lukewarm_ocean": "2025-05-20 01:09:51 +0000",
+      "minecraft:river": "2025-05-20 05:02:55 +0000",
       "minecraft:stony_shore": "2025-05-20 01:17:05 +0000",
       "minecraft:forest": "2025-05-20 01:22:37 +0000",
       "minecraft:jungle": "2025-05-20 01:38:10 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-20 05:01:30 +0000",
       "minecraft:plains": "2025-05-20 01:20:50 +0000"
     },
     "done": false
@@ -5289,78 +5299,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "simplyswords:simplyswords": {
     "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-20 02:06:58 +0000",
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
+      "requirement": "2025-05-20 02:02:25 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 02:06:24 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
@@ -5440,15 +5383,327 @@
     },
     "done": true
   },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-05-20 02:02:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-20 02:03:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_acacia_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_jungle_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_birch_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-20 04:54:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_crimson_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_warped_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_dark_oak_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_oak_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_mangrove_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-05-20 05:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-20 05:07:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_spruce_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_cherry_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-20 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-20 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-20 05:07:59 +0000"
     },
     "done": true
   },
