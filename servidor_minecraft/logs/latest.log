@@ -1349,3 +1349,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21May2025 06:33:59.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.7.141.189:48993] logged in with entity id 112926 at (121.69999998807907, 134.70000004768372, -475.30000001192093)
 [21May2025 06:33:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
 [21May2025 06:33:59.782] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[21May2025 06:46:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Keeper of Souls]
+[21May2025 06:47:24.346] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID c550aa9e-1bfc-4df1-8634-3df4a24df33f
+[21May2025 06:47:24.347] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 78 Y: 140 Z: -439
+[21May2025 06:47:24.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Casti414
+[21May2025 06:47:24.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(82, 143, -445) minecraft:overworld
+[21May2025 06:48:58.993] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21May2025 06:54:46.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> [name:"Posible spot casa", x:-240, y:133, z:-2240, dim:minecraft:overworld]
