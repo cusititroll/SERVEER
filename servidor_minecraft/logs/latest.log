@@ -1356,3 +1356,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21May2025 06:47:24.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(82, 143, -445) minecraft:overworld
 [21May2025 06:48:58.993] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [21May2025 06:54:46.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> [name:"Posible spot casa", x:-240, y:133, z:-2240, dim:minecraft:overworld]
+[21May2025 07:04:20.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[21May2025 07:04:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[21May2025 07:07:49.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
+[21May2025 07:07:49.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[21May2025 07:08:40.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ModelOsprey lost connection: Disconnected
+[21May2025 07:08:40.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey left the game
