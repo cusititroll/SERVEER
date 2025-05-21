@@ -1328,3 +1328,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21May2025 05:45:57.735] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-2323, y=227, z=-5425}
 [21May2025 05:45:57.735] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2323, y=228, z=-5425} but found not block entity block Block{minecraft:ice} at location
 [21May2025 05:45:57.735] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-2323, y=228, z=-5425}
+[21May2025 05:53:08.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Keeper of Souls]
+[21May2025 05:53:24.980] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ModelOsprey with unique ID 52f52a3c-f245-41b2-b7be-02fdb507ad2f
+[21May2025 05:53:24.982] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 117 Y: 133 Z: -479
+[21May2025 05:53:24.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Casti414
+[21May2025 05:53:24.989] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(117, 134, -481) minecraft:overworld
+[21May2025 05:53:33.503] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air

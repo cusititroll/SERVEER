@@ -6803,6 +6803,12 @@
     },
     "done": true
   },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-05-21 05:53:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-05-21 05:39:44 +0000"
