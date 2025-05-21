@@ -1334,3 +1334,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21May2025 05:53:24.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey was slain by Casti414
 [21May2025 05:53:24.989] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(117, 134, -481) minecraft:overworld
 [21May2025 05:53:33.503] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21May2025 06:14:34.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Isaaac_173) moved wrongly! 0.5065816651340356
+[21May2025 06:16:51.480] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1665, y=223, z=-2915} but found not block entity block Block{minecraft:ice} at location
+[21May2025 06:16:51.480] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-1665, y=223, z=-2915}
+[21May2025 06:16:51.481] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1666, y=222, z=-2914} but found not block entity block Block{minecraft:ice} at location
+[21May2025 06:16:51.481] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-1666, y=222, z=-2914}
+[21May2025 06:16:53.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1633, y=198, z=-2912} but found not block entity block Block{minecraft:ice} at location
+[21May2025 06:16:53.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-1633, y=198, z=-2912}
+[21May2025 06:16:53.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1634, y=199, z=-2912} but found not block entity block Block{minecraft:ice} at location
+[21May2025 06:16:53.925] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:ice} but failed at location BlockPos{x=-1634, y=199, z=-2912}
+[21May2025 06:26:07.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Isaaac_173) moved wrongly! 0.26317250851457175
+[21May2025 06:33:44.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[21May2025 06:33:44.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[21May2025 06:33:59.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.7.141.189:48993] logged in with entity id 112926 at (121.69999998807907, 134.70000004768372, -475.30000001192093)
+[21May2025 06:33:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[21May2025 06:33:59.782] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)

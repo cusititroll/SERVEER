@@ -6754,6 +6754,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-21 06:27:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-05-21 05:32:03 +0000"
@@ -6763,6 +6769,12 @@
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-21 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-05-21 05:59:06 +0000"
     },
     "done": true
   },
@@ -6916,6 +6928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-21 05:59:06 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2025-05-21 05:32:03 +0000"
@@ -7057,6 +7075,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-21 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-05-21 05:59:06 +0000"
     },
     "done": true
   },

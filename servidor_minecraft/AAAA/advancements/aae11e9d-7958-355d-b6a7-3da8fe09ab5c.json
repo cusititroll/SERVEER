@@ -6779,6 +6779,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-21 05:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-21 05:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-21 05:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-21 05:25:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_planks": "2025-05-21 05:39:19 +0000"
@@ -6800,18 +6824,6 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-21 05:39:19 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:soulkeeper": {
-    "criteria": {
-      "requirement": "2025-05-21 05:53:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_blue_dye": "2025-05-21 05:39:44 +0000"
     },
     "done": true
   },
@@ -6860,18 +6872,6 @@
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-21 05:39:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_blue_dye": "2025-05-21 05:39:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_blue_picket_gate": {
-    "criteria": {
-      "has_dye": "2025-05-21 05:39:44 +0000"
     },
     "done": true
   },
@@ -6935,33 +6935,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 05:39:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-05-21 05:39:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-05-21 05:25:40 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-21 05:39:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 05:39:44 +0000"
     },
     "done": true
   },
@@ -6989,12 +6965,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-05-21 05:25:40 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-21 05:39:19 +0000"
@@ -7007,27 +6977,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 05:39:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-05-21 05:25:40 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-21 05:39:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-05-21 05:39:44 +0000"
     },
     "done": true
   },
@@ -7049,18 +7001,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-05-21 05:39:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_candle": {
-    "criteria": {
-      "has_blue_dye": "2025-05-21 05:39:44 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_gray_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-21 05:39:19 +0000"
@@ -7076,18 +7016,6 @@
   "valhelsia_furniture:recipes/decorations/birch_desk_drawer": {
     "criteria": {
       "has_birch_planks": "2025-05-21 05:39:19 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/blue_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_color": "2025-05-21 05:39:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-05-21 05:25:40 +0000"
     },
     "done": true
   },
@@ -7139,12 +7067,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_blue_dye": "2025-05-21 05:39:44 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_park_bench": {
     "criteria": {
       "has_planks": "2025-05-21 05:39:19 +0000"
@@ -7163,12 +7085,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 05:39:44 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-21 05:39:19 +0000"
@@ -7181,9 +7097,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_blue_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_blue_picket_fence": {
     "criteria": {
       "has_dye": "2025-05-21 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-05-21 05:53:08 +0000"
     },
     "done": true
   },
