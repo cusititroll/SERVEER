@@ -1438,3 +1438,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22May2025 06:15:16.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=50, y=20, z=-40} BlockPos{x=50, y=21, z=-40}
 [22May2025 06:15:16.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/19262, l='ServerLevel[AAAA]', x=23.50, y=124.00, z=-53.44] died, message: 'Librarian was dragged underground by Dorcel'
 [22May2025 06:43:17.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ModelOsprey> ;:[[[Ñ
+[22May2025 07:05:18.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ModelOsprey lost connection: Disconnected
+[22May2025 07:05:18.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey left the game
