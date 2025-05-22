@@ -1275,3 +1275,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22May2025 00:46:39.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey joined the game
 [22May2025 00:46:39.689] [Server thread/INFO] [Jade/]: Syncing config to ModelOsprey (af3d48e9-4c69-3ac2-8398-bdaf0b15cfdc)
 [22May2025 00:47:17.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ModelOsprey: Set the time to 1000]
+[22May2025 00:55:06.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ModelOsprey: Set own game mode to Spectator Mode]
+[22May2025 00:55:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ModelOsprey: Set own game mode to Creative Mode]
+[22May2025 00:55:41.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ModelOsprey: Set own game mode to Survival Mode]
+[22May2025 00:59:28.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey has made the advancement [We Need to Go Deeper]
+[22May2025 00:59:28.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey has made the advancement [Incendium]
+[22May2025 00:59:31.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10688ms or 213 ticks behind
