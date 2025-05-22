@@ -1465,3 +1465,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22May2025 01:42:02.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1574, y=18, z=-425} BlockPos{x=1576, y=18, z=-424}
 [22May2025 01:43:17.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ModelOsprey lost connection: Disconnected
 [22May2025 01:43:17.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ModelOsprey left the game
+[22May2025 02:09:03.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22May2025 02:09:03.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22May2025 02:09:03.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22May2025 02:09:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:overworld
+[22May2025 02:09:03.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_nether
+[22May2025 02:09:03.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/aether:the_aether
+[22May2025 02:09:03.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_end
+[22May2025 02:09:03.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/deeperdarker:otherside
+[22May2025 02:09:03.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/twilightforest:twilight_forest
+[22May2025 02:09:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (AAAA): All chunks are saved
+[22May2025 02:09:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22May2025 02:09:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[22May2025 02:09:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22May2025 02:09:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22May2025 02:09:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22May2025 02:09:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22May2025 02:09:03.340] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
