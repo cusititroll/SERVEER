@@ -1289,3 +1289,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 03:11:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Incendium]
 [24May2025 03:11:43.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [We Need to Go Deeper]
 [24May2025 03:11:52.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Downer]
+[24May2025 03:16:12.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri lost connection: Disconnected
+[24May2025 03:16:12.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri left the game
+[24May2025 03:16:58.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24May2025 03:16:58.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24May2025 03:16:58.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24May2025 03:16:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:overworld
+[24May2025 03:16:59.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/twilightforest:twilight_forest
+[24May2025 03:16:59.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_end
+[24May2025 03:16:59.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_nether
+[24May2025 03:16:59.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/deeperdarker:otherside
+[24May2025 03:16:59.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/aether:the_aether
+[24May2025 03:16:59.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (AAAA): All chunks are saved
+[24May2025 03:16:59.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[24May2025 03:16:59.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24May2025 03:16:59.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24May2025 03:16:59.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[24May2025 03:16:59.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[24May2025 03:16:59.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24May2025 03:16:59.197] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
