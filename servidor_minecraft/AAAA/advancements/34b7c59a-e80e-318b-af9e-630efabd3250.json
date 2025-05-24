@@ -1981,6 +1981,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-20 01:53:06 +0000",
+      "minecraft:skeleton": "2025-05-24 03:07:07 +0000",
       "minecraft:vindicator": "2025-05-20 01:56:44 +0000",
       "minecraft:spider": "2025-05-20 01:21:04 +0000",
       "minecraft:creeper": "2025-05-20 01:25:52 +0000",
@@ -7071,17 +7072,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
+      "enchanted_item": "2025-05-24 02:08:53 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
@@ -7095,41 +7090,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
-  },
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2025-05-24 02:11:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
   },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
@@ -7143,35 +7108,11 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-05-24 02:08:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-24 02:11:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
   },
   "beautify:bookstack": {
     "criteria": {
@@ -7179,23 +7120,11 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
-  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-05-24 02:11:44 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 02:27:43 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }

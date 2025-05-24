@@ -1283,3 +1283,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24May2025 02:28:17.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri lost connection: Disconnected
 [24May2025 02:28:17.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri left the game
 [24May2025 02:28:17.629] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 03:05:44.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kokiri[/127.111.136.12:41043] logged in with entity id 18748 at (201.69999998807907, 129.0, -483.69706858706735)
+[24May2025 03:05:44.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri joined the game
+[24May2025 03:05:44.686] [Server thread/INFO] [Jade/]: Syncing config to Kokiri (34b7c59a-e80e-318b-af9e-630efabd3250)
+[24May2025 03:11:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Incendium]
+[24May2025 03:11:43.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [We Need to Go Deeper]
+[24May2025 03:11:52.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [Downer]
