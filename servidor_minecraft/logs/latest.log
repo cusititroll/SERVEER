@@ -1326,3 +1326,256 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26May2025 02:04:19.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:44041] logged in with entity id 37385 at (39.5, 80.0, -164.5)
 [26May2025 02:04:19.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
 [26May2025 02:04:19.233] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[26May2025 02:07:53.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=109, y=14, z=-148} BlockPos{x=109, y=13, z=-148}
+[26May2025 02:07:53.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=110, y=13, z=-148} BlockPos{x=109, y=13, z=-148}
+[26May2025 02:07:53.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=110, y=14, z=-148} BlockPos{x=109, y=13, z=-148}
+[26May2025 02:07:54.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=110, y=14, z=-148} BlockPos{x=109, y=13, z=-148}
+[26May2025 02:09:01.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=123, y=18, z=-193} BlockPos{x=122, y=17, z=-193}
+[26May2025 02:10:03.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=17, z=-301} BlockPos{x=135, y=17, z=-301}
+[26May2025 02:10:59.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=16, z=-364} BlockPos{x=214, y=16, z=-365}
+[26May2025 02:10:59.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=16, z=-364} BlockPos{x=214, y=16, z=-365}
+[26May2025 02:10:59.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=16, z=-364} BlockPos{x=214, y=16, z=-365}
+[26May2025 02:10:59.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=16, z=-364} BlockPos{x=214, y=16, z=-365}
+[26May2025 02:10:59.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=16, z=-364} BlockPos{x=214, y=16, z=-365}
+[26May2025 02:12:17.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Stone Age]
+[26May2025 02:13:26.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Getting an Upgrade]
+[26May2025 02:13:32.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.121.81.23:36903] logged in with entity id 54037 at (124.78476678314847, 144.0, -469.661358078349)
+[26May2025 02:13:32.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
+[26May2025 02:13:33.037] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)
+[26May2025 02:14:43.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [The Dust Settles]
+[26May2025 02:14:43.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Strange Biomes]
+[26May2025 02:14:53.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=18, z=-527} BlockPos{x=303, y=16, z=-526}
+[26May2025 02:14:53.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=16, z=-525} BlockPos{x=303, y=16, z=-526}
+[26May2025 02:14:53.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=17, z=-525} BlockPos{x=303, y=16, z=-526}
+[26May2025 02:14:53.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=17, z=-525} BlockPos{x=303, y=16, z=-526}
+[26May2025 02:14:53.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=304, y=16, z=-525} BlockPos{x=303, y=16, z=-526}
+[26May2025 02:14:53.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=304, y=16, z=-525} BlockPos{x=303, y=16, z=-526}
+[26May2025 02:14:53.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=304, y=16, z=-525} BlockPos{x=303, y=16, z=-526}
+[26May2025 02:14:54.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=304, y=16, z=-524} BlockPos{x=303, y=16, z=-526}
+[26May2025 02:15:58.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57851, l='ServerLevel[AAAA]', x=257.05, y=84.00, z=-481.90] died: Toxic Slime fell from a high place
+[26May2025 02:16:17.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57954, l='ServerLevel[AAAA]', x=196.65, y=74.00, z=-548.53] died: Toxic Slime fell from a high place
+[26May2025 02:16:24.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57769, l='ServerLevel[AAAA]', x=252.51, y=64.00, z=-481.45] died: Toxic Slime fell from a high place
+[26May2025 02:16:46.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/58085, l='ServerLevel[AAAA]', x=272.48, y=70.88, z=-472.80] died: Toxic Slime fell from a high place
+[26May2025 02:16:52.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/58456, l='ServerLevel[AAAA]', x=267.34, y=103.00, z=-491.58] died: Toxic Slime fell from a high place
+[26May2025 02:17:07.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Radioactive]
+[26May2025 02:17:11.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=287, y=67, z=-511} BlockPos{x=288, y=68, z=-513}
+[26May2025 02:17:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> casti
+[26May2025 02:17:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> mordecai se comio a rigby xd
+[26May2025 02:18:06.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/60185, l='ServerLevel[AAAA]', x=159.17, y=59.00, z=-490.13] died: Toxic Slime fell from a high place
+[26May2025 02:18:14.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Nightmare Fuel]
+[26May2025 02:18:17.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57974, l='ServerLevel[AAAA]', x=223.19, y=93.00, z=-482.95] died: Toxic Slime fell from a high place
+[26May2025 02:18:46.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/60559, l='ServerLevel[AAAA]', x=207.35, y=35.00, z=-576.79] died: Toxic Slime fell from a high place
+[26May2025 02:19:16.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> pasame el waypoint
+[26May2025 02:19:44.152] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/61526, l='ServerLevel[AAAA]', x=202.17, y=37.00, z=-717.63] died: Toxic Slime fell from a high place
+[26May2025 02:19:46.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/61527, l='ServerLevel[AAAA]', x=148.11, y=79.00, z=-693.10] died: Toxic Slime fell from a high place
+[26May2025 02:19:50.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Those Were the Days]
+[26May2025 02:19:51.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Acquire Hardware]
+[26May2025 02:20:05.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/61793, l='ServerLevel[AAAA]', x=151.99, y=67.00, z=-669.13] died: Toxic Slime fell from a high place
+[26May2025 02:20:09.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/61794, l='ServerLevel[AAAA]', x=141.53, y=61.00, z=-664.13] died: Toxic Slime fell from a high place
+[26May2025 02:20:13.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/61792, l='ServerLevel[AAAA]', x=193.60, y=79.00, z=-675.72] died: Toxic Slime fell from a high place
+[26May2025 02:20:16.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/61791, l='ServerLevel[AAAA]', x=157.67, y=79.00, z=-688.62] died: Toxic Slime fell from a high place
+[26May2025 02:20:47.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [War Pigs]
+[26May2025 02:21:21.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Isn't It Iron Pick]
+[26May2025 02:22:01.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [We Need to Go Deeper]
+[26May2025 02:22:01.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Incendium]
+[26May2025 02:22:08.473] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/62861, l='ServerLevel[AAAA]', x=159.81, y=32.00, z=-644.38] died: Toxic Slime fell from a high place
+[26May2025 02:22:37.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/63674, l='ServerLevel[AAAA]', x=179.78, y=76.00, z=-671.36] died: Toxic Slime fell from a high place
+[26May2025 02:22:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Suit Up]
+[26May2025 02:22:39.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/63672, l='ServerLevel[AAAA]', x=187.18, y=75.00, z=-663.31] died: Toxic Slime fell from a high place
+[26May2025 02:26:11.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/65466, l='ServerLevel[AAAA]', x=180.30, y=32.00, z=-739.02] died: Toxic Slime fell from a high place
+[26May2025 02:26:32.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BgodYT[/127.197.63.191:49747] logged in with entity id 65876 at (25.5, 73.0, -161.5)
+[26May2025 02:26:32.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT joined the game
+[26May2025 02:26:32.830] [Server thread/INFO] [Jade/]: Syncing config to BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90)
+[26May2025 02:26:44.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Alex's Mobs]
+[26May2025 02:26:53.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66114, l='ServerLevel[AAAA]', x=201.65, y=76.00, z=-668.77] died: Toxic Slime fell from a high place
+[26May2025 02:27:00.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Made ModelOsprey no longer a server operator]
+[26May2025 02:27:09.670] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bastion_remnant took 15 ms
+[26May2025 02:27:12.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=75, z=-164}
+[26May2025 02:27:12.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=75, z=-164}
+[26May2025 02:27:12.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=75, z=-164}
+[26May2025 02:27:14.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=75, z=-164}
+[26May2025 02:27:40.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66555, l='ServerLevel[AAAA]', x=176.01, y=32.00, z=-664.48] died: Toxic Slime fell from a high place
+[26May2025 02:28:03.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66826, l='ServerLevel[AAAA]', x=116.34, y=57.00, z=-680.66] died: Toxic Slime fell from a high place
+[26May2025 02:28:05.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/65420, l='ServerLevel[AAAA]', x=183.64, y=-20.00, z=-752.04] died: Toxic Slime was killed
+[26May2025 02:28:10.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67270, l='ServerLevel[AAAA]', x=141.53, y=82.00, z=-700.63] died: Toxic Slime fell from a high place
+[26May2025 02:28:13.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67271, l='ServerLevel[AAAA]', x=182.37, y=76.00, z=-673.80] died: Toxic Slime fell from a high place
+[26May2025 02:28:17.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67304, l='ServerLevel[AAAA]', x=94.47, y=63.00, z=-634.35] died: Toxic Slime fell from a high place
+[26May2025 02:28:38.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67882, l='ServerLevel[AAAA]', x=190.08, y=32.00, z=-656.29] died: Toxic Slime fell from a high place
+[26May2025 02:28:45.530] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67305, l='ServerLevel[AAAA]', x=101.51, y=66.00, z=-623.73] died: Toxic Slime fell from a high place
+[26May2025 02:28:54.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68147, l='ServerLevel[AAAA]', x=201.50, y=36.00, z=-716.33] died: Toxic Slime fell from a high place
+[26May2025 02:28:56.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67988, l='ServerLevel[AAAA]', x=113.49, y=34.00, z=-733.06] died: Toxic Slime fell from a high place
+[26May2025 02:28:57.020] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68146, l='ServerLevel[AAAA]', x=206.13, y=80.00, z=-711.43] died: Toxic Slime fell from a high place
+[26May2025 02:28:59.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68212, l='ServerLevel[AAAA]', x=89.74, y=43.00, z=-783.87] died: Toxic Slime fell from a high place
+[26May2025 02:29:04.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68287, l='ServerLevel[AAAA]', x=172.93, y=74.00, z=-751.90] died: Toxic Slime fell from a high place
+[26May2025 02:29:06.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Toxic Personality]
+[26May2025 02:29:07.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67631, l='ServerLevel[AAAA]', x=144.09, y=81.00, z=-725.81] died: Toxic Slime was slain by PandagamerP
+[26May2025 02:29:07.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68148, l='ServerLevel[AAAA]', x=202.74, y=74.00, z=-709.84] died: Toxic Slime fell from a high place
+[26May2025 02:29:12.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68149, l='ServerLevel[AAAA]', x=183.16, y=75.00, z=-667.90] died: Toxic Slime fell from a high place
+[26May2025 02:29:14.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68263, l='ServerLevel[AAAA]', x=126.85, y=32.00, z=-743.54] died: Toxic Slime fell from a high place
+[26May2025 02:29:24.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68233, l='ServerLevel[AAAA]', x=198.97, y=32.00, z=-657.86] died: Toxic Slime fell from a high place
+[26May2025 02:29:28.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68290, l='ServerLevel[AAAA]', x=112.50, y=31.00, z=-689.25] died: Toxic Slime fell from a high place
+[26May2025 02:29:30.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68291, l='ServerLevel[AAAA]', x=210.74, y=45.00, z=-720.09] died: Toxic Slime fell from a high place
+[26May2025 02:29:31.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66832, l='ServerLevel[AAAA]', x=108.77, y=59.00, z=-670.62] died: Toxic Slime fell from a high place
+[26May2025 02:29:53.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[26May2025 02:30:02.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69166, l='ServerLevel[AAAA]', x=168.33, y=29.00, z=-636.84] died: Toxic Slime fell from a high place
+[26May2025 02:30:02.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69135, l='ServerLevel[AAAA]', x=116.14, y=31.00, z=-688.58] died: Toxic Slime fell from a high place
+[26May2025 02:30:07.730] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69183, l='ServerLevel[AAAA]', x=216.16, y=36.00, z=-656.87] died: Toxic Slime fell from a high place
+[26May2025 02:30:11.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[26May2025 02:30:30.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26May2025 02:30:49.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4106ms or 82 ticks behind
+[26May2025 02:31:09.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[26May2025 02:31:12.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69987, l='ServerLevel[AAAA]', x=127.47, y=31.00, z=-697.48] died: Toxic Slime fell from a high place
+[26May2025 02:31:22.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has reached the goal [Hunted]
+[26May2025 02:31:28.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69386, l='ServerLevel[AAAA]', x=213.74, y=40.00, z=-703.33] died: Toxic Slime fell from a high place
+[26May2025 02:31:29.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4529ms or 90 ticks behind
+[26May2025 02:31:46.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[26May2025 02:31:58.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70278, l='ServerLevel[AAAA]', x=198.69, y=32.00, z=-662.68] died: Toxic Slime fell from a high place
+[26May2025 02:32:03.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[26May2025 02:32:20.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[26May2025 02:32:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
+[26May2025 02:32:21.539] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70815, l='ServerLevel[AAAA]', x=123.89, y=32.00, z=-736.26] died: Toxic Slime fell from a high place
+[26May2025 02:32:22.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3524ms or 70 ticks behind
+[26May2025 02:32:34.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:55927] logged in with entity id 70935 at (271.19448115468623, 105.0, -825.3000000119209)
+[26May2025 02:32:34.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[26May2025 02:32:34.437] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[26May2025 02:32:35.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70859, l='ServerLevel[AAAA]', x=208.64, y=33.00, z=-701.72] died: Toxic Slime fell from a high place
+[26May2025 02:32:45.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[26May2025 02:32:48.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71205, l='ServerLevel[AAAA]', x=137.70, y=28.00, z=-631.44] died: Toxic Slime fell from a high place
+[26May2025 02:33:03.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70917, l='ServerLevel[AAAA]', x=186.00, y=32.00, z=-641.77] died: Toxic Slime fell from a high place
+[26May2025 02:33:04.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3976ms or 79 ticks behind
+[26May2025 02:33:10.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71250, l='ServerLevel[AAAA]', x=191.26, y=75.00, z=-668.10] died: Toxic Slime fell from a high place
+[26May2025 02:33:16.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71497, l='ServerLevel[AAAA]', x=150.19, y=32.00, z=-657.37] died: Toxic Slime fell from a high place
+[26May2025 02:33:18.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71565, l='ServerLevel[AAAA]', x=153.60, y=31.00, z=-615.12] died: Toxic Slime fell from a high place
+[26May2025 02:33:21.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26May2025 02:33:40.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 fell from a high place
+[26May2025 02:33:40.474] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(191, 71, -850) minecraft:overworld
+[26May2025 02:33:41.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4813ms or 96 ticks behind
+[26May2025 02:33:48.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71566, l='ServerLevel[AAAA]', x=226.72, y=63.00, z=-534.37] died: Toxic Slime fell from a high place
+[26May2025 02:33:56.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/72174, l='ServerLevel[AAAA]', x=217.71, y=123.00, z=-498.31] died: Toxic Slime fell from a high place
+[26May2025 02:33:58.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/72152, l='ServerLevel[AAAA]', x=138.13, y=31.00, z=-551.91] died: Toxic Slime fell from a high place
+[26May2025 02:34:09.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26May2025 02:34:36.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-175}
+[26May2025 02:34:36.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-175}
+[26May2025 02:34:36.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-174}
+[26May2025 02:34:37.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-174}
+[26May2025 02:34:46.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-176}
+[26May2025 02:34:46.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-175}
+[26May2025 02:34:46.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-175}
+[26May2025 02:34:48.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-174}
+[26May2025 02:34:48.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-175}
+[26May2025 02:34:48.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-175}
+[26May2025 02:34:48.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-175}
+[26May2025 02:34:49.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/73160, l='ServerLevel[AAAA]', x=152.29, y=64.00, z=-514.53] died: Toxic Slime fell from a high place
+[26May2025 02:34:50.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-174}
+[26May2025 02:34:50.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-175}
+[26May2025 02:34:50.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-175}
+[26May2025 02:34:50.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-175}
+[26May2025 02:34:52.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/73519, l='ServerLevel[AAAA]', x=120.96, y=63.00, z=-456.33] died: Toxic Slime fell from a high place
+[26May2025 02:34:58.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-175}
+[26May2025 02:34:58.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-176}
+[26May2025 02:34:58.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-176}
+[26May2025 02:34:58.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-175}
+[26May2025 02:35:03.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=24, y=73, z=-174}
+[26May2025 02:35:03.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-174}
+[26May2025 02:35:03.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-175}
+[26May2025 02:35:04.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=74, z=-163} BlockPos{x=25, y=74, z=-175}
+[26May2025 02:37:34.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=74, z=-176} BlockPos{x=25, y=73, z=-173}
+[26May2025 02:37:35.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=74, z=-176} BlockPos{x=25, y=73, z=-173}
+[26May2025 02:37:35.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=74, z=-176} BlockPos{x=25, y=73, z=-173}
+[26May2025 02:38:20.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[26May2025 02:38:54.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26May2025 02:38:57.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Stone Age]
+[26May2025 02:39:29.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Getting an Upgrade]
+[26May2025 02:39:48.487] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID 55fc198f-289f-40b4-8f54-5a15d90b7a02
+[26May2025 02:39:48.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 91 Y: 71 Z: -93
+[26May2025 02:39:48.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin
+[26May2025 02:39:48.492] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(91, 71, -94) minecraft:the_nether
+[26May2025 02:39:51.310] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID cf4aca12-4666-4b6c-ae3a-85fb3488d382
+[26May2025 02:39:51.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 64 Y: 97 Z: -122
+[26May2025 02:39:51.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Piglin
+[26May2025 02:39:51.314] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(67, 95, -121) minecraft:the_nether
+[26May2025 02:42:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP fell from a high place
+[26May2025 02:42:55.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP fell from a high place
+[26May2025 02:42:55.618] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(62, 45, -91) minecraft:the_nether
+[26May2025 02:43:56.901] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26May2025 02:43:56.901] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 chainmail_gloves
+[26May2025 02:44:20.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xZ3r0kx[/127.56.156.83:53207] logged in with entity id 85550 at (23.5, 82.0, -164.5)
+[26May2025 02:44:20.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx joined the game
+[26May2025 02:44:21.091] [Server thread/INFO] [Jade/]: Syncing config to xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c)
+[26May2025 02:46:32.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Downer]
+[26May2025 02:46:32.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP fell from a high place
+[26May2025 02:46:32.466] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(63, 32, -94) minecraft:the_nether
+[26May2025 02:48:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Alex's Mobs]
+[26May2025 02:48:18.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=76, z=-164}
+[26May2025 02:48:41.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Sweet Dreams]
+[26May2025 02:48:43.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Sweet Dreams]
+[26May2025 02:49:03.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=71, z=-162} BlockPos{x=25, y=76, z=-176}
+[26May2025 02:49:31.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Monster Hunter]
+[26May2025 02:49:44.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=71, z=-162} BlockPos{x=25, y=75, z=-176}
+[26May2025 02:51:43.310] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26May2025 02:52:25.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Stone Age]
+[26May2025 02:57:15.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[26May2025 02:57:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[26May2025 02:58:43.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Getting an Upgrade]
+[26May2025 03:00:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Monster Hunter]
+[26May2025 03:00:46.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/107828, l='ServerLevel[AAAA]', x=-55.16, y=32.00, z=-374.22] died: Toxic Slime fell from a high place
+[26May2025 03:00:55.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/107952, l='ServerLevel[AAAA]', x=-57.67, y=49.00, z=-382.38] died: Toxic Slime fell from a high place
+[26May2025 03:00:58.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Monster Hunter]
+[26May2025 03:01:05.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/107926, l='ServerLevel[AAAA]', x=-80.84, y=51.00, z=-340.79] died: Toxic Slime fell from a high place
+[26May2025 03:01:48.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/108850, l='ServerLevel[AAAA]', x=-12.43, y=30.00, z=-417.00] died: Toxic Slime fell from a high place
+[26May2025 03:01:52.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/108900, l='ServerLevel[AAAA]', x=42.58, y=32.00, z=-470.77] died: Toxic Slime fell from a high place
+[26May2025 03:01:53.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/108887, l='ServerLevel[AAAA]', x=52.89, y=45.00, z=-520.20] died: Toxic Slime fell from a high place
+[26May2025 03:01:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Radioactive]
+[26May2025 03:02:04.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109074, l='ServerLevel[AAAA]', x=28.21, y=37.00, z=-441.97] died: Toxic Slime fell from a high place
+[26May2025 03:02:08.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/108901, l='ServerLevel[AAAA]', x=42.83, y=45.00, z=-496.59] died: Toxic Slime fell from a high place
+[26May2025 03:02:19.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109441, l='ServerLevel[AAAA]', x=36.95, y=50.00, z=-534.63] died: Toxic Slime fell from a high place
+[26May2025 03:02:26.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109512, l='ServerLevel[AAAA]', x=78.76, y=29.00, z=-488.46] died: Toxic Slime fell from a high place
+[26May2025 03:02:31.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109096, l='ServerLevel[AAAA]', x=-43.09, y=38.50, z=-547.66] died: Toxic Slime fell from a high place
+[26May2025 03:02:31.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109548, l='ServerLevel[AAAA]', x=86.34, y=57.00, z=-546.00] died: Toxic Slime fell from a high place
+[26May2025 03:02:40.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109012, l='ServerLevel[AAAA]', x=53.26, y=30.00, z=-490.50] died: Toxic Slime fell from a high place
+[26May2025 03:02:41.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109850, l='ServerLevel[AAAA]', x=109.56, y=57.00, z=-501.17] died: Toxic Slime fell from a high place
+[26May2025 03:02:41.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109849, l='ServerLevel[AAAA]', x=110.20, y=57.00, z=-506.97] died: Toxic Slime fell from a high place
+[26May2025 03:02:42.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
+[26May2025 03:02:42.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[26May2025 03:02:42.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109547, l='ServerLevel[AAAA]', x=54.59, y=47.00, z=-514.61] died: Toxic Slime fell from a high place
+[26May2025 03:02:48.205] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/109874, l='ServerLevel[AAAA]', x=38.29, y=51.00, z=-551.92] died: Toxic Slime fell from a high place
+[26May2025 03:03:55.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Acquire Hardware]
+[26May2025 03:04:30.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Suit Up]
+[26May2025 03:05:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Acquire Hardware]
+[26May2025 03:05:33.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.121.81.23:52423] logged in with entity id 112348 at (10.89642693434457, 28.504091017575433, -492.6433369788777)
+[26May2025 03:05:33.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
+[26May2025 03:05:33.243] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)
+[26May2025 03:05:39.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/112574, l='ServerLevel[AAAA]', x=24.84, y=50.00, z=-439.26] died: Toxic Slime fell from a high place
+[26May2025 03:05:41.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/112548, l='ServerLevel[AAAA]', x=63.24, y=55.00, z=-586.49] died: Toxic Slime fell from a high place
+[26May2025 03:05:44.269] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID 56f3fb82-1ce9-4e1b-a5cf-82c1376d54de
+[26May2025 03:05:44.270] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 7 Y: 29 Z: -490
+[26May2025 03:05:44.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 tried to swim in lava
+[26May2025 03:05:44.272] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(9, 37, -491) minecraft:the_nether
+[26May2025 03:06:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Suit Up]
+[26May2025 03:07:39.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 tried to swim in lava
+[26May2025 03:07:42.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was shot by Skeleton
+[26May2025 03:07:42.302] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(49, 176, -685) minecraft:overworld
+[26May2025 03:07:57.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was shot by Skeleton
+[26May2025 03:07:57.299] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(63, 178, -647) minecraft:overworld
+[26May2025 03:08:07.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was shot by Skeleton
+[26May2025 03:08:07.901] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(62, 178, -647) minecraft:overworld
+[26May2025 03:08:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was shot by Skeleton
+[26May2025 03:08:33.144] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(57, 178, -647) minecraft:overworld
+[26May2025 03:08:38.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[26May2025 03:08:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
+[26May2025 03:08:45.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was shot by Skeleton
+[26May2025 03:08:45.290] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(57, 178, -647) minecraft:overworld
+[26May2025 03:08:52.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:54949] logged in with entity id 116152 at (12.050179091772756, 126.0, -447.7143424966007)
+[26May2025 03:08:52.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[26May2025 03:08:52.590] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[26May2025 03:09:31.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Not Today, Thank You]
+[26May2025 03:11:47.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was shot by Huntsman
+[26May2025 03:11:47.689] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(76, 172, -658) minecraft:overworld
+[26May2025 03:12:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was shot by Huntsman
+[26May2025 03:12:28.787] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(74, 178, -639) minecraft:overworld
+[26May2025 03:12:39.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has reached the goal [Hunted]
+[26May2025 03:14:16.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by MICHE019
+[26May2025 03:14:16.716] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(77, 180, -596) minecraft:overworld
+[26May2025 03:15:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Not Today, Thank You]
+[26May2025 03:15:48.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[26May2025 03:15:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
