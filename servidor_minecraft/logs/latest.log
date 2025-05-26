@@ -1282,3 +1282,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26May2025 01:41:34.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.235.203.197:39629] logged in with entity id 9935 at (118.69934748171578, 139.0, -494.2558756183161)
 [26May2025 01:41:34.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
 [26May2025 01:41:34.428] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[26May2025 01:44:58.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> CASTI+
+[26May2025 01:45:00.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> ABLA
+[26May2025 01:47:09.584] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14155, l='ServerLevel[AAAA]', x=23.50, y=124.00, z=-53.71] died, message: 'Unemployed was dragged underground by Dorcel'
+[26May2025 01:48:23.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Downer]
+[26May2025 01:49:14.996] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID a96d97ec-a27b-44d5-9851-e49dd390b5da
+[26May2025 01:49:14.997] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 59 Y: 53 Z: -120
+[26May2025 01:49:15.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP fell from a high place
+[26May2025 01:49:15.016] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(58, 53, -122) minecraft:the_nether
+[26May2025 01:52:05.200] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26May2025 01:52:05.201] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 chainmail_gloves
+[26May2025 01:53:43.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=23, z=-148} BlockPos{x=58, y=23, z=-147}
+[26May2025 01:53:43.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=23, z=-148} BlockPos{x=58, y=23, z=-147}
+[26May2025 01:54:07.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=16, z=-150} BlockPos{x=22, y=16, z=-149}
+[26May2025 01:54:07.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=16, z=-150} BlockPos{x=22, y=16, z=-149}
+[26May2025 01:55:02.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Hidden in the Depths]
+[26May2025 01:55:39.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=15, z=-171} BlockPos{x=-39, y=16, z=-170}
+[26May2025 01:55:39.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=16, z=-171} BlockPos{x=-39, y=16, z=-170}
+[26May2025 01:55:39.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=16, z=-171} BlockPos{x=-39, y=16, z=-170}
+[26May2025 01:56:02.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=16, z=-189} BlockPos{x=-82, y=15, z=-190}
+[26May2025 01:56:02.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=16, z=-189} BlockPos{x=-82, y=15, z=-190}
+[26May2025 01:56:02.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=16, z=-189} BlockPos{x=-82, y=15, z=-190}
+[26May2025 01:56:15.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=15, z=-204} BlockPos{x=-74, y=15, z=-205}
+[26May2025 01:56:15.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=15, z=-204} BlockPos{x=-74, y=15, z=-205}
+[26May2025 01:56:15.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=15, z=-204} BlockPos{x=-74, y=15, z=-205}
+[26May2025 01:56:15.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=15, z=-204} BlockPos{x=-74, y=15, z=-205}
+[26May2025 01:57:40.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=15, z=-211} BlockPos{x=-79, y=15, z=-212}
+[26May2025 01:57:41.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=14, z=-209} BlockPos{x=-77, y=15, z=-212}
+[26May2025 01:57:53.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-57, y=17, z=-209} BlockPos{x=-56, y=17, z=-209}
+[26May2025 01:58:42.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=16, z=-198} BlockPos{x=-21, y=16, z=-196}
+[26May2025 02:02:45.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=7, z=-121} BlockPos{x=120, y=7, z=-121}
+[26May2025 02:02:45.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=7, z=-121} BlockPos{x=120, y=7, z=-121}
+[26May2025 02:02:45.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=6, z=-121} BlockPos{x=120, y=7, z=-121}
+[26May2025 02:02:47.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=7, z=-124} BlockPos{x=120, y=7, z=-121}
+[26May2025 02:02:47.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=6, z=-124} BlockPos{x=120, y=7, z=-121}
+[26May2025 02:02:47.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=6, z=-124} BlockPos{x=120, y=7, z=-121}
+[26May2025 02:03:07.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Into Fire]
+[26May2025 02:03:17.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> bro
+[26May2025 02:03:19.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> conesta
+[26May2025 02:03:26.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> Me llamo mi mama
+[26May2025 02:03:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> Escribeme
+[26May2025 02:03:45.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Listen Close]
+[26May2025 02:04:19.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:44041] logged in with entity id 37385 at (39.5, 80.0, -164.5)
+[26May2025 02:04:19.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[26May2025 02:04:19.233] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
