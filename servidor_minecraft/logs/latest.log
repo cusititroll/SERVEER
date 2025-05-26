@@ -1579,3 +1579,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26May2025 03:15:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Not Today, Thank You]
 [26May2025 03:15:48.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
 [26May2025 03:15:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
+[26May2025 03:16:30.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was shot by Skeleton
+[26May2025 03:16:30.600] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(25, 171, -716) minecraft:overworld
+[26May2025 03:16:52.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was blown up by Isaaac_173
+[26May2025 03:16:52.592] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(29, 171, -697) minecraft:overworld
+[26May2025 03:17:39.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:54491] logged in with entity id 121942 at (60.71509978870525, 179.0, -641.3007073988844)
+[26May2025 03:17:39.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[26May2025 03:17:39.947] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[26May2025 03:17:47.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was slain by Slugger
+[26May2025 03:17:47.738] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(27, 171, -714) minecraft:overworld
+[26May2025 03:17:58.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Isn't It Iron Pick]
+[26May2025 03:18:33.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Isn't It Iron Pick]
+[26May2025 03:19:30.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Hunted]
+[26May2025 03:20:24.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was slain by Isaaac_173
+[26May2025 03:20:24.103] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1, 167, -695) minecraft:overworld
+[26May2025 03:22:32.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Blindfolded]
+[26May2025 03:22:34.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Blindfolded]
+[26May2025 03:22:54.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Confusing Fruit]
+[26May2025 03:23:47.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was slain by Slugger
+[26May2025 03:23:47.184] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-70, 166, -695) minecraft:overworld
+[26May2025 03:24:26.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
+[26May2025 03:24:26.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game

@@ -20476,3 +20476,771 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26May2025 03:15:56.494] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=46.78, y=176.00, z=-685.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
 [26May2025 03:15:56.573] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
 [26May2025 03:15:56.636] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=47.23, y=176.00, z=-685.50]
+[26May2025 03:15:59.493] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=46.82, y=174.00, z=-682.44], dimensionLocationPath overworld
+[26May2025 03:15:59.494] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=46.82, y=174.00, z=-682.44] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:15:59.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=46.82, y=174.00, z=-682.44]
+[26May2025 03:16:04.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=45.77, y=175.00, z=-683.23], dimensionLocationPath overworld
+[26May2025 03:16:04.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=45.77, y=175.00, z=-683.23] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:16:05.169] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=45.77, y=175.00, z=-683.17]
+[26May2025 03:16:11.444] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=45.25, y=175.92, z=-689.52], dimensionLocationPath overworld
+[26May2025 03:16:11.444] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=45.25, y=175.92, z=-689.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:16:12.092] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=43.53, y=174.00, z=-691.05]
+[26May2025 03:16:12.317] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/121058, l='ServerLevel[AAAA]', x=47.43, y=177.14, z=-685.45], dimensionLocationPath overworld
+[26May2025 03:16:12.317] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/121058, l='ServerLevel[AAAA]', x=47.43, y=177.14, z=-685.45] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:16:12.817] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/121058, l='ServerLevel[AAAA]', x=47.87, y=176.90, z=-684.93, removed=DISCARDED]
+[26May2025 03:16:30.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was shot by Skeleton
+[26May2025 03:16:30.600] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(25, 171, -716) minecraft:overworld
+[26May2025 03:16:30.601] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=25.61, y=171.00, z=-715.07]
+[26May2025 03:16:31.829] [Server thread/DEBUG] [twilightforest/]: Player xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c) respawned and received items held in storage
+[26May2025 03:16:35.784] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=26.36, y=171.00, z=-696.88], dimensionLocationPath overworld
+[26May2025 03:16:35.784] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=26.36, y=171.00, z=-696.88] in list []
+[26May2025 03:16:35.889] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=26.56, y=171.00, z=-697.36]
+[26May2025 03:16:36.238] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=26.55, y=171.00, z=-697.79], dimensionLocationPath overworld
+[26May2025 03:16:36.238] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=26.55, y=171.00, z=-697.79] in list []
+[26May2025 03:16:36.642] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=26.78, y=171.00, z=-698.60]
+[26May2025 03:16:39.191] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=35.16, y=173.00, z=-696.87], dimensionLocationPath overworld
+[26May2025 03:16:39.191] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=35.16, y=173.00, z=-696.87] in list []
+[26May2025 03:16:39.440] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=35.77, y=173.00, z=-695.60]
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:moa_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26May2025 03:16:41.084] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26May2025 03:16:41.085] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26May2025 03:16:41.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AAAA
+[26May2025 03:16:41.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AAAA
+[26May2025 03:16:52.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was blown up by Isaaac_173
+[26May2025 03:16:52.592] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(29, 171, -697) minecraft:overworld
+[26May2025 03:16:54.881] [Server thread/DEBUG] [twilightforest/]: Player BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90) respawned and received items held in storage
+[26May2025 03:17:01.837] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/121562, l='ServerLevel[AAAA]', x=41.58, y=174.48, z=-691.44], dimensionLocationPath overworld
+[26May2025 03:17:01.837] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/121562, l='ServerLevel[AAAA]', x=41.58, y=174.48, z=-691.44] in list []
+[26May2025 03:17:02.239] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=30.61, y=172.00, z=-697.63], dimensionLocationPath overworld
+[26May2025 03:17:02.239] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=30.61, y=172.00, z=-697.63] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dada]
+[26May2025 03:17:03.091] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/121562, l='ServerLevel[AAAA]', x=42.20, y=174.00, z=-692.22, removed=DISCARDED]
+[26May2025 03:17:19.986] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=31.57, y=172.00, z=-707.28], dimensionLocationPath overworld
+[26May2025 03:17:19.986] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=31.57, y=172.00, z=-707.28] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:17:21.091] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=33.34, y=173.00, z=-712.70]
+[26May2025 03:17:25.066] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/121794, l='ServerLevel[AAAA]', x=33.74, y=174.37, z=-714.42], dimensionLocationPath overworld
+[26May2025 03:17:25.066] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/121794, l='ServerLevel[AAAA]', x=33.74, y=174.37, z=-714.42] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:17:25.567] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/121794, l='ServerLevel[AAAA]', x=34.65, y=174.13, z=-714.88, removed=DISCARDED]
+[26May2025 03:17:26.143] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=33.85, y=174.00, z=-713.27], dimensionLocationPath overworld
+[26May2025 03:17:26.143] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=33.85, y=174.00, z=-713.27] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:17:26.592] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=33.85, y=174.00, z=-713.19]
+[26May2025 03:17:35.402] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 42 messages to dispatch.
+[26May2025 03:17:35.449] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[26May2025 03:17:35.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[26May2025 03:17:35.543] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[26May2025 03:17:35.592] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 3
+[26May2025 03:17:35.640] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 1
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, easyanvils, playeranimator, fabric_rendering_fluids_v1, fabric_models_v0, mcwwindows, valhelsia_furniture, duckling, fabric_convention_tags_v1, fabric_command_api_v1, fabric_command_api_v2, fabric_block_view_api_v2, yungsapi, guardvillagers, pickupnotifier, balm, fabric_screen_api_v1, betterfortresses, paraglider, cloth_config, sound_physics_remastered, ctov, embeddium, rubidium, advancementplaques, repurposed_structures, fabric_game_rule_api_v1, gml, explorify, blur, ironfurnaces, aquatictorches, yungsbridges, resourcefulconfig, mr_tidal_towns, mysticaloaktree, curios, oculus, commongroovylibrary, searchables, hpm, fabric_entity_events_v1, cumulus_menus, cfm, flib, fabric_rendering_data_attachment_v1, nitrogen_internals, bettermineshafts, phenomena, betterjungletemples, fabric_client_tags_api_v1, fabric_dimensions_v1, doubledoors, fastload, wi_zoom, abridged, tia, fabric_model_loading_api_v1, jei, visualworkbench, fabric_screen_handler_api_v1, epicsamurai, kobolds, fabric_rendering_v1, realmrpg_skeletons, fabric_renderer_indigo, epicfight, travelersbackpack, snuffles, rare_ice, respawninganimals, imst, fabric_particles_v1, puzzlesaccessapi, forge, simpletomb, dungeons_arise, tectonic, minecraft, terrablender, fabric_api_base, mousetweaks, bettercombat, shouldersurfing, unusualprehistory, herdmentality, spectrelib, fabric_block_api_v1, fabric_resource_conditions_api_v1, betterfpsdist, notenoughanimations, ecologics, fabric_item_group_api_v1, entityculling, canary, fabric_registry_sync_v0, fabric_recipe_api_v1, moremobvariants, fabric_object_builder_api_v1, visuality, puzzleslib, bn_blood_particles_mod, fabric_sound_api_v1, fabric_message_api_v1, euphoria_patcher, aquamirae, cristellib, mr_stellarity, treechop, skyvillages, williams_hedgehogs, fabric_renderer_api_v1, embeddiumplus, betterwitchhuts, satin, geckolib, beautify, fabric_item_api_v1, aether, naturalist, betteroceanmonuments, dynamiclights, incendium, immersive_aircraft, sophisticatedcore, controlling, citadel, alexsmobs, mixinextras, bookshelf, additionalstructures, fpsreducer, carryon, vanillazoom, dragonmounts, fabric_api, fabric_content_registries_v0, twilightforest, konkrete, diagonalblocks, enemyexpansion, entity_model_features, entity_texture_features, ambientsounds, fabric_api_lookup_api_v1, valhelsia_structures, diagonalwindows, cataclysm, patchouli, collective, elevatorid, connectormod, betterstrongholds, resourcefullib, deeperdarker, architectury, animal_feeding_trough, fabric_loot_api_v2, cupboard, fabric_networking_api_v1, hopo, t_and_t, fabric_lifecycle_events_v1, fabric_key_binding_api_v1, betteradvancements, fabric_transfer_api_v1, treasuredistance, easymagic, fabric_resource_loader_v0, obscure_api, structorytowers, waystones, structory, clumps, journeymap, comforts, fabric_mining_level_api_v1, make_bubbles_pop, better_totem_of_undying, betterdeserttemples, hopour, azurelib, watut, travelerstitles, tlskincape, fabric_transitive_access_wideners_v1, vanillaplustools, simplyswords, moonlight, extragore, endermanoverhaul, regions_unexplored, fabric_blockrenderlayer_v1, jade, hoporp, creativecore, weaponmaster, smoothboot, moveboats, iceberg, immersive_paintings, diagonalfences, betterchunkloading, fabric_biome_api_v1, coroutil, craftable_enchanted_golden_apple, creeperoverhaul, ferritecore, yet_another_config_lib_v3, justzoom, betterf3, spawn, leawind_third_person_perspective, valhelsia_core, fabric_data_generation_api_v1, fabric_events_interaction_v0]
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vanillaplustools:net-channel' : Version test of '1.0' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cfm:network' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'azurelib:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ironfurnaces:ironfurnaces_network' : Version test of '1.0' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hpm:hpm' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'azurelib:network_channel' : Version test of '2.0.0' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_skeletons:realmrpg_skeletons' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pickupnotifier:1' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftable_enchanted_golden_apple:craftable_enchanted_golden_apple' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enemyexpansion:enemyexpansion' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'flib:main_channel' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endermanoverhaul:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'obscure_api:obscure_api' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'extragore:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dragonmounts:network' : Version test of '1.O' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aquamirae:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spawn:network' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bn_blood_particles_mod:bn_blood_particles_mod' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:1' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'williams_hedgehogs:williams_hedgehogs' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '1' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'unusualprehistory:messages' : Version test of '1.0' from client : ACCEPTED
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[26May2025 03:17:35.685] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[26May2025 03:17:35.689] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[26May2025 03:17:35.706] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 2
+[26May2025 03:17:35.706] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[26May2025 03:17:35.706] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:35.706] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:35.739] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[26May2025 03:17:35.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 7
+[26May2025 03:17:35.803] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 3
+[26May2025 03:17:35.803] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[26May2025 03:17:35.803] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:35.803] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:35.838] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 8
+[26May2025 03:17:35.838] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 4
+[26May2025 03:17:35.838] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[26May2025 03:17:35.838] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:35.838] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:35.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 9
+[26May2025 03:17:35.940] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 10
+[26May2025 03:17:35.994] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 11
+[26May2025 03:17:36.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 12
+[26May2025 03:17:36.094] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=24.94, y=171.00, z=-715.24], dimensionLocationPath overworld
+[26May2025 03:17:36.094] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=24.94, y=171.00, z=-715.24] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:17:36.095] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 13
+[26May2025 03:17:36.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 14
+[26May2025 03:17:36.189] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 15
+[26May2025 03:17:36.240] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:epicfightanimation' to 'fml:handshake' sequence 16
+[26May2025 03:17:36.266] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 5
+[26May2025 03:17:36.266] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[26May2025 03:17:36.266] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.266] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.266] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 6
+[26May2025 03:17:36.266] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[26May2025 03:17:36.266] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.266] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 7
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 8
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 9
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.267] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 10
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 11
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 12
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.268] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 13
+[26May2025 03:17:36.269] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[26May2025 03:17:36.269] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.269] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.294] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 17
+[26May2025 03:17:36.336] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 18
+[26May2025 03:17:36.389] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 19
+[26May2025 03:17:36.439] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 20
+[26May2025 03:17:36.486] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 14
+[26May2025 03:17:36.486] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[26May2025 03:17:36.486] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.486] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 21
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 15
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 16
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 17
+[26May2025 03:17:36.499] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[26May2025 03:17:36.500] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.500] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.500] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 18
+[26May2025 03:17:36.500] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[26May2025 03:17:36.500] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.500] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.538] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 22
+[26May2025 03:17:36.588] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry valhelsia_structures:structure_height_provider_types' to 'fml:handshake' sequence 23
+[26May2025 03:17:36.595] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 19
+[26May2025 03:17:36.595] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[26May2025 03:17:36.595] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.595] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.635] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 20
+[26May2025 03:17:36.635] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[26May2025 03:17:36.635] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.635] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.637] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 24
+[26May2025 03:17:36.684] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 25
+[26May2025 03:17:36.738] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 26
+[26May2025 03:17:36.793] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 27
+[26May2025 03:17:36.839] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 28
+[26May2025 03:17:36.844] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 21
+[26May2025 03:17:36.844] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[26May2025 03:17:36.844] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.844] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 22
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 23
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 24
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 25
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.884] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.887] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 29
+[26May2025 03:17:36.907] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 26
+[26May2025 03:17:36.907] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[26May2025 03:17:36.907] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.907] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.943] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config dragonmounts-server.toml' to 'fml:handshake' sequence 30
+[26May2025 03:17:36.953] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 27
+[26May2025 03:17:36.953] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[26May2025 03:17:36.953] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:36.953] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:36.985] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config aether-server.toml' to 'fml:handshake' sequence 31
+[26May2025 03:17:37.037] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easyanvils-server.toml' to 'fml:handshake' sequence 32
+[26May2025 03:17:37.088] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 33
+[26May2025 03:17:37.137] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 34
+[26May2025 03:17:37.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 35
+[26May2025 03:17:37.237] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config elevatorid-server.toml' to 'fml:handshake' sequence 36
+[26May2025 03:17:37.289] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config additionalstructures-server.toml' to 'fml:handshake' sequence 37
+[26May2025 03:17:37.340] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pickupnotifier/pickupnotifier-server.toml' to 'fml:handshake' sequence 38
+[26May2025 03:17:37.388] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 39
+[26May2025 03:17:37.449] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config beautify-server.toml' to 'fml:handshake' sequence 40
+[26May2025 03:17:37.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 41
+[26May2025 03:17:37.891] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=20.86, y=171.00, z=-717.60]
+[26May2025 03:17:39.383] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 28
+[26May2025 03:17:39.383] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[26May2025 03:17:39.383] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.383] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.424] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 29
+[26May2025 03:17:39.424] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[26May2025 03:17:39.424] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 30
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 31
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 32
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 33
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 34
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 35
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 36
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 37
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 38
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 39
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 40
+[26May2025 03:17:39.425] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[26May2025 03:17:39.426] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.426] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.426] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 41
+[26May2025 03:17:39.426] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[26May2025 03:17:39.426] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26May2025 03:17:39.426] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26May2025 03:17:39.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[26May2025 03:17:39.499] [Server thread/DEBUG] [fabric_networking_api_v1/]: Sent accepted channels to the client for "com.mojang.authlib.GameProfile@8086d4c[id=<null>,name=MICHE019,properties={},legacy=false] (/127.194.80.254:54491)"
+[26May2025 03:17:39.774] [Netty Epoll Server IO #1/DEBUG] [ServerLoginNetworkAddon for /127.194.80.254:54491/]: Handling inbound login query with id 999
+[26May2025 03:17:39.774] [Netty Epoll Server IO #1/DEBUG] [fabric_networking_api_v1/]: Received accepted channels from the client for "com.mojang.authlib.GameProfile@8086d4c[id=<null>,name=MICHE019,properties={},legacy=false] (/127.194.80.254:54491)"
+[26May2025 03:17:39.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:54491] logged in with entity id 121942 at (60.71509978870525, 179.0, -641.3007073988844)
+[26May2025 03:17:39.800] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@2f438b87 into net.minecraft.network.Connection@7a73c7b
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:command_argument_type
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: aether:moa_type
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:item
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_entity_type
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:stat_type
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:fluid
+[26May2025 03:17:39.800] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:global_loot_modifier_serializers
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:frog_variant
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: twilightforest:tiny_bird_variant
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:mob_effect
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:enchantment
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:entity_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_profession
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:cat_variant
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:menu
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sound_event
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:particle_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:game_event
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:painting_variant
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:fluid_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:entity_data_serializers
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: twilightforest:dwarf_rabbit_variant
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+[26May2025 03:17:39.801] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+[26May2025 03:17:39.801] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[26May2025 03:17:39.801] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[26May2025 03:17:39.801] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[26May2025 03:17:39.801] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[26May2025 03:17:39.801] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[26May2025 03:17:39.801] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[26May2025 03:17:39.801] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[26May2025 03:17:39.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[26May2025 03:17:39.947] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[26May2025 03:17:39.993] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/121942, l='ServerLevel[AAAA]', x=60.72, y=179.00, z=-641.30], dimensionLocationPath overworld
+[26May2025 03:17:39.993] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/121942, l='ServerLevel[AAAA]', x=60.72, y=179.00, z=-641.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:17:47.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was slain by Slugger
+[26May2025 03:17:47.738] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(27, 171, -714) minecraft:overworld
+[26May2025 03:17:47.755] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=27.72, y=171.00, z=-713.33]
+[26May2025 03:17:49.777] [Server thread/DEBUG] [twilightforest/]: Player BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90) respawned and received items held in storage
+[26May2025 03:17:58.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Isn't It Iron Pick]
+[26May2025 03:18:17.692] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.76, y=173.17, z=-706.71], dimensionLocationPath overworld
+[26May2025 03:18:17.692] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.76, y=173.17, z=-706.71] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:18:18.791] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=39.30, y=174.00, z=-705.65]
+[26May2025 03:18:33.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Isn't It Iron Pick]
+[26May2025 03:18:51.586] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=40.31, y=174.00, z=-692.19], dimensionLocationPath overworld
+[26May2025 03:18:51.586] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=40.31, y=174.00, z=-692.19] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:18:51.994] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=40.47, y=174.00, z=-690.31]
+[26May2025 03:18:52.235] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=40.55, y=174.00, z=-690.22], dimensionLocationPath overworld
+[26May2025 03:18:52.235] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=40.55, y=174.00, z=-690.22] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:18:53.242] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=39.22, y=173.54, z=-692.32]
+[26May2025 03:18:55.239] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=32.35, y=173.00, z=-687.07], dimensionLocationPath overworld
+[26May2025 03:18:55.239] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=32.35, y=173.00, z=-687.07] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:18:55.734] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=31.98, y=174.00, z=-685.97]
+[26May2025 03:19:12.250] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[26May2025 03:19:12.337] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.72, y=177.00, z=-685.30], dimensionLocationPath overworld
+[26May2025 03:19:12.337] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.72, y=177.00, z=-685.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:19:12.391] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.72, y=177.00, z=-685.30]
+[26May2025 03:19:13.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.72, y=177.00, z=-685.30], dimensionLocationPath overworld
+[26May2025 03:19:13.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.72, y=177.00, z=-685.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:19:13.188] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.72, y=177.00, z=-685.30]
+[26May2025 03:19:14.636] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.72, y=177.00, z=-685.30], dimensionLocationPath overworld
+[26May2025 03:19:14.636] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.72, y=177.00, z=-685.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:19:18.337] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=34.91, y=174.00, z=-685.49]
+[26May2025 03:19:30.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Hunted]
+[26May2025 03:19:35.339] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=11.86, y=170.25, z=-708.81], dimensionLocationPath overworld
+[26May2025 03:19:35.340] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=11.86, y=170.25, z=-708.81] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:19:36.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=8.45, y=171.50, z=-714.86]
+[26May2025 03:19:39.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/123077, l='ServerLevel[AAAA]', x=-0.73, y=170.49, z=-707.53], dimensionLocationPath overworld
+[26May2025 03:19:39.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/123077, l='ServerLevel[AAAA]', x=-0.73, y=170.49, z=-707.53] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:19:40.166] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/123078, l='ServerLevel[AAAA]', x=-1.73, y=170.29, z=-707.41], dimensionLocationPath overworld
+[26May2025 03:19:40.167] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/123078, l='ServerLevel[AAAA]', x=-1.73, y=170.29, z=-707.41] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1e0c5]
+[26May2025 03:19:40.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/123077, l='ServerLevel[AAAA]', x=-0.33, y=170.24, z=-707.59, removed=DISCARDED]
+[26May2025 03:19:41.017] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/123078, l='ServerLevel[AAAA]', x=-2.73, y=170.00, z=-706.34, removed=DISCARDED]
+[26May2025 03:19:52.992] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=9.81, y=172.00, z=-721.90]
+[26May2025 03:19:53.838] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=9.81, y=172.00, z=-721.90], dimensionLocationPath overworld
+[26May2025 03:19:53.838] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=9.81, y=172.00, z=-721.90] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:19:54.094] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=12.90, y=172.00, z=-723.27], dimensionLocationPath overworld
+[26May2025 03:19:54.094] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=12.90, y=172.00, z=-723.27] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:19:54.538] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=12.93, y=172.00, z=-723.27]
+[26May2025 03:20:02.342] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-14.48, y=164.77, z=-697.97]
+[26May2025 03:20:20.037] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-1.97, y=167.00, z=-694.05], dimensionLocationPath overworld
+[26May2025 03:20:20.037] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-1.97, y=167.00, z=-694.05] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:20:20.690] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=0.47, y=167.00, z=-695.84]
+[26May2025 03:20:24.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was slain by Isaaac_173
+[26May2025 03:20:24.103] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1, 167, -695) minecraft:overworld
+[26May2025 03:20:24.172] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=1.12, y=167.00, z=-694.22]
+[26May2025 03:20:25.465] [Server thread/DEBUG] [twilightforest/]: Player xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c) respawned and received items held in storage
+[26May2025 03:20:35.739] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-20.24, y=162.00, z=-697.78], dimensionLocationPath overworld
+[26May2025 03:20:35.739] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-20.24, y=162.00, z=-697.78] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:20:36.392] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-20.36, y=162.00, z=-698.22]
+[26May2025 03:20:38.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-22.93, y=165.00, z=-700.53], dimensionLocationPath overworld
+[26May2025 03:20:38.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-22.93, y=165.00, z=-700.53] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:20:39.544] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-23.20, y=167.02, z=-703.04]
+[26May2025 03:20:41.588] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-20.39, y=170.00, z=-712.93], dimensionLocationPath overworld
+[26May2025 03:20:41.588] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-20.39, y=170.00, z=-712.93] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:20:42.892] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-22.33, y=172.00, z=-718.23]
+[26May2025 03:20:48.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/123967, l='ServerLevel[AAAA]', x=-24.38, y=174.53, z=-719.52], dimensionLocationPath overworld
+[26May2025 03:20:48.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/123967, l='ServerLevel[AAAA]', x=-24.38, y=174.53, z=-719.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:20:51.834] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-1.83, y=167.00, z=-694.12], dimensionLocationPath overworld
+[26May2025 03:20:51.835] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-1.83, y=167.00, z=-694.12] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1e43f]
+[26May2025 03:20:52.417] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/123967, l='ServerLevel[AAAA]', x=-25.52, y=173.00, z=-719.88, removed=DISCARDED]
+[26May2025 03:20:53.942] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-27.17, y=175.00, z=-720.27], dimensionLocationPath overworld
+[26May2025 03:20:53.942] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-27.17, y=175.00, z=-720.27] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:20:54.594] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-27.26, y=175.00, z=-720.33]
+[26May2025 03:20:58.267] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/124026, l='ServerLevel[AAAA]', x=-7.60, y=169.37, z=-708.65], dimensionLocationPath overworld
+[26May2025 03:20:58.267] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/124026, l='ServerLevel[AAAA]', x=-7.60, y=169.37, z=-708.65] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:20:58.767] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/124026, l='ServerLevel[AAAA]', x=-8.00, y=169.12, z=-708.91, removed=DISCARDED]
+[26May2025 03:21:00.336] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-7.23, y=167.80, z=-700.66]
+[26May2025 03:21:00.817] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/124046, l='ServerLevel[AAAA]', x=-6.31, y=168.52, z=-708.42], dimensionLocationPath overworld
+[26May2025 03:21:00.817] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/124046, l='ServerLevel[AAAA]', x=-6.31, y=168.52, z=-708.42] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:01.316] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/124046, l='ServerLevel[AAAA]', x=-7.09, y=168.27, z=-708.62, removed=DISCARDED]
+[26May2025 03:21:01.694] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-13.50, y=166.00, z=-704.39], dimensionLocationPath overworld
+[26May2025 03:21:01.694] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-13.50, y=166.00, z=-704.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:02.203] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[26May2025 03:21:02.536] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-17.41, y=167.00, z=-705.83]
+[26May2025 03:21:10.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-5.47, y=166.00, z=-694.38], dimensionLocationPath overworld
+[26May2025 03:21:10.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-5.47, y=166.00, z=-694.38] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:11.287] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-1.36, y=167.00, z=-693.10]
+[26May2025 03:21:17.638] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=0.56, y=166.00, z=-682.76], dimensionLocationPath overworld
+[26May2025 03:21:17.638] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=0.56, y=166.00, z=-682.76] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:18.639] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=1.96, y=166.00, z=-679.86]
+[26May2025 03:21:22.611] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[26May2025 03:21:24.338] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-6.03, y=171.00, z=-714.39], dimensionLocationPath overworld
+[26May2025 03:21:24.338] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-6.03, y=171.00, z=-714.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:25.236] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-1.68, y=171.00, z=-716.40]
+[26May2025 03:21:25.489] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-0.59, y=171.00, z=-717.27], dimensionLocationPath overworld
+[26May2025 03:21:25.489] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-0.59, y=171.00, z=-717.27] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:26.496] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=1.55, y=172.00, z=-720.08]
+[26May2025 03:21:27.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-7.45, y=165.00, z=-677.19], dimensionLocationPath overworld
+[26May2025 03:21:27.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-7.45, y=165.00, z=-677.19] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:28.237] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-7.70, y=165.00, z=-675.93]
+[26May2025 03:21:31.188] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-17.16, y=164.00, z=-677.92], dimensionLocationPath overworld
+[26May2025 03:21:31.188] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-17.16, y=164.00, z=-677.92] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:31.736] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-18.56, y=164.00, z=-678.00]
+[26May2025 03:21:35.338] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=4.04, y=175.00, z=-727.25], dimensionLocationPath overworld
+[26May2025 03:21:35.338] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=4.04, y=175.00, z=-727.25] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:35.843] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=4.04, y=175.00, z=-727.25]
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:moa_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26May2025 03:21:41.102] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26May2025 03:21:41.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AAAA
+[26May2025 03:21:41.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AAAA
+[26May2025 03:21:48.340] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-3.15, y=175.00, z=-728.89], dimensionLocationPath overworld
+[26May2025 03:21:48.340] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-3.15, y=175.00, z=-728.89] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:21:49.142] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-5.13, y=175.00, z=-729.43]
+[26May2025 03:22:02.339] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-21.26, y=163.00, z=-689.19], dimensionLocationPath overworld
+[26May2025 03:22:02.339] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-21.26, y=163.00, z=-689.19] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:22:02.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-20.83, y=163.00, z=-688.90]
+[26May2025 03:22:18.698] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-15.10, y=171.00, z=-714.48], dimensionLocationPath overworld
+[26May2025 03:22:18.698] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-15.10, y=171.00, z=-714.48] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:22:23.336] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.14, y=169.00, z=-713.09]
+[26May2025 03:22:23.741] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.51, y=170.02, z=-712.60], dimensionLocationPath overworld
+[26May2025 03:22:23.741] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.51, y=170.02, z=-712.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:22:25.716] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/125640, l='ServerLevel[AAAA]', x=-33.36, y=168.37, z=-712.59], dimensionLocationPath overworld
+[26May2025 03:22:25.716] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/125640, l='ServerLevel[AAAA]', x=-33.36, y=168.37, z=-712.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@14e2e]
+[26May2025 03:22:26.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/125640, l='ServerLevel[AAAA]', x=-32.53, y=168.12, z=-712.84, removed=DISCARDED]
+[26May2025 03:22:26.936] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-33.62, y=168.00, z=-712.50]
+[26May2025 03:22:27.636] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.15, y=169.00, z=-713.60], dimensionLocationPath overworld
+[26May2025 03:22:27.637] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.15, y=169.00, z=-713.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:22:27.888] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.15, y=169.00, z=-713.61]
+[26May2025 03:22:28.247] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.15, y=169.00, z=-713.61], dimensionLocationPath overworld
+[26May2025 03:22:28.247] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.15, y=169.00, z=-713.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:22:28.488] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.15, y=169.00, z=-713.61]
+[26May2025 03:22:29.140] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-29.20, y=164.00, z=-686.26], dimensionLocationPath overworld
+[26May2025 03:22:29.140] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-29.20, y=164.00, z=-686.26] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:22:30.640] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-31.15, y=164.00, z=-685.30]
+[26May2025 03:22:32.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Blindfolded]
+[26May2025 03:22:32.737] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-33.91, y=164.00, z=-686.30], dimensionLocationPath overworld
+[26May2025 03:22:32.737] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-33.91, y=164.00, z=-686.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:22:33.339] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-37.70, y=165.75, z=-685.99]
+[26May2025 03:22:34.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Blindfolded]
+[26May2025 03:22:42.238] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-42.32, y=167.00, z=-681.30], dimensionLocationPath overworld
+[26May2025 03:22:42.238] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-42.32, y=167.00, z=-681.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:22:42.445] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-42.28, y=167.00, z=-681.30]
+[26May2025 03:22:51.690] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-44.31, y=167.56, z=-685.84], dimensionLocationPath overworld
+[26May2025 03:22:51.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-44.31, y=167.56, z=-685.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:22:51.942] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-43.44, y=167.56, z=-686.03]
+[26May2025 03:22:54.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Confusing Fruit]
+[26May2025 03:23:18.293] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-61.03, y=167.02, z=-690.81], dimensionLocationPath overworld
+[26May2025 03:23:18.293] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-61.03, y=167.02, z=-690.81] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:23:21.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-64.67, y=166.00, z=-691.85]
+[26May2025 03:23:27.796] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-33.40, y=166.00, z=-703.75], dimensionLocationPath overworld
+[26May2025 03:23:27.796] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-33.40, y=166.00, z=-703.75] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:23:30.689] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-34.35, y=166.02, z=-687.57]
+[26May2025 03:23:36.288] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-69.70, y=166.00, z=-691.81], dimensionLocationPath overworld
+[26May2025 03:23:36.288] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-69.70, y=166.00, z=-691.81] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:23:38.538] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-70.35, y=166.00, z=-687.10]
+[26May2025 03:23:38.539] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-32.59, y=164.00, z=-683.96], dimensionLocationPath overworld
+[26May2025 03:23:38.539] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-32.59, y=164.00, z=-683.96] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:23:39.139] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-33.46, y=164.00, z=-686.63]
+[26May2025 03:23:47.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was slain by Slugger
+[26May2025 03:23:47.184] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-70, 166, -695) minecraft:overworld
+[26May2025 03:23:47.200] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-69.16, y=166.00, z=-694.28]
+[26May2025 03:23:49.724] [Server thread/DEBUG] [twilightforest/]: Player BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90) respawned and received items held in storage
+[26May2025 03:23:56.192] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-35.14, y=165.17, z=-683.50], dimensionLocationPath overworld
+[26May2025 03:23:56.192] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-35.14, y=165.17, z=-683.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:23:56.290] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-35.67, y=165.25, z=-683.44]
+[26May2025 03:24:03.141] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-50.27, y=167.00, z=-686.19], dimensionLocationPath overworld
+[26May2025 03:24:03.141] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-50.27, y=167.00, z=-686.19] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:24:04.638] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-58.16, y=166.54, z=-687.93]
+[26May2025 03:24:05.137] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-60.42, y=166.00, z=-688.95], dimensionLocationPath overworld
+[26May2025 03:24:05.137] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-60.42, y=166.00, z=-688.95] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:24:05.242] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-60.53, y=166.42, z=-689.36]
+[26May2025 03:24:14.538] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-60.13, y=166.00, z=-690.14], dimensionLocationPath overworld
+[26May2025 03:24:14.539] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-60.13, y=166.00, z=-690.14] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:24:15.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-60.13, y=166.00, z=-690.14]
+[26May2025 03:24:26.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
+[26May2025 03:24:26.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[26May2025 03:24:36.192] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-66.96, y=166.06, z=-689.76], dimensionLocationPath overworld
+[26May2025 03:24:36.192] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-66.96, y=166.06, z=-689.76] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:24:36.250] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-66.96, y=166.06, z=-689.76]
+[26May2025 03:24:46.493] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-66.62, y=166.25, z=-696.00], dimensionLocationPath overworld
+[26May2025 03:24:46.493] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-66.62, y=166.25, z=-696.00] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:24:46.695] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-65.82, y=166.00, z=-695.56]
+[26May2025 03:24:47.190] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-64.43, y=165.50, z=-695.28], dimensionLocationPath overworld
+[26May2025 03:24:47.191] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-64.43, y=165.50, z=-695.28] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:24:48.542] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-68.36, y=166.06, z=-693.96]
+[26May2025 03:24:51.293] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-80.22, y=164.00, z=-695.07], dimensionLocationPath overworld
+[26May2025 03:24:51.293] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-80.22, y=164.00, z=-695.07] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:24:53.937] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-89.48, y=169.18, z=-702.98]
+[26May2025 03:25:07.389] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-83.95, y=165.00, z=-684.21], dimensionLocationPath overworld
+[26May2025 03:25:07.389] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-83.95, y=165.00, z=-684.21] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:25:08.039] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-84.34, y=165.00, z=-681.88]
+[26May2025 03:25:08.788] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-84.35, y=165.00, z=-681.27], dimensionLocationPath overworld
+[26May2025 03:25:08.788] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-84.35, y=165.00, z=-681.27] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:25:09.389] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-84.14, y=165.00, z=-680.85]
+[26May2025 03:25:16.551] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[26May2025 03:25:17.589] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-89.14, y=164.00, z=-678.58], dimensionLocationPath overworld
+[26May2025 03:25:17.590] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-89.14, y=164.00, z=-678.58] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:25:21.045] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/65876, l='ServerLevel[AAAA]', x=-101.07, y=167.00, z=-681.02]
+[26May2025 03:25:34.787] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-84.44, y=169.00, z=-711.43], dimensionLocationPath overworld
+[26May2025 03:25:34.787] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-84.44, y=169.00, z=-711.43] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:25:36.540] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-88.59, y=171.00, z=-712.70]
+[26May2025 03:25:37.491] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-88.77, y=173.00, z=-716.17], dimensionLocationPath overworld
+[26May2025 03:25:37.491] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-88.77, y=173.00, z=-716.17] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:25:40.093] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-85.34, y=176.00, z=-721.53]
+[26May2025 03:25:54.887] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-81.39, y=176.00, z=-722.02], dimensionLocationPath overworld
+[26May2025 03:25:54.887] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-81.39, y=176.00, z=-722.02] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:25:55.390] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-81.39, y=176.00, z=-722.02]
+[26May2025 03:26:04.190] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-76.03, y=176.00, z=-719.79], dimensionLocationPath overworld
+[26May2025 03:26:04.190] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-76.03, y=176.00, z=-719.79] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:26:04.597] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-74.84, y=177.02, z=-719.87]
+[26May2025 03:26:04.837] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-74.24, y=178.17, z=-720.00], dimensionLocationPath overworld
+[26May2025 03:26:04.837] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-74.24, y=178.17, z=-720.00] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1dc56]
+[26May2025 03:26:10.288] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['xZ3r0kx'/85550, l='ServerLevel[AAAA]', x=-59.15, y=179.02, z=-717.49]

@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-05-26 03:15:12 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-05-26 03:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-26 03:09:31 +0000"
@@ -254,6 +266,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-26 03:01:58 +0000",
+      "minecraft:spider": "2025-05-26 03:15:11 +0000",
       "minecraft:zombie": "2025-05-26 03:00:44 +0000"
     },
     "done": false
@@ -300,6 +313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-26 03:15:12 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-26 02:34:27 +0000"
@@ -327,6 +346,12 @@
   "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-26 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-26 03:15:12 +0000"
     },
     "done": true
   },
@@ -474,6 +499,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-26 03:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
@@ -525,6 +556,12 @@
   "cfm:recipes/decorations/red_trampoline": {
     "criteria": {
       "has_iron": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-05-26 03:12:39 +0000"
     },
     "done": true
   },
@@ -651,6 +688,12 @@
   "cfm:recipes/decorations/black_grill": {
     "criteria": {
       "has_iron": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-26 03:14:30 +0000"
     },
     "done": true
   },
@@ -811,6 +854,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-26 03:18:33 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-05-26 02:26:33 +0000"
@@ -919,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-26 03:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
@@ -1015,6 +1070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-26 03:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
@@ -1084,6 +1145,12 @@
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-26 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-26 03:15:12 +0000"
     },
     "done": true
   },
@@ -1252,6 +1319,12 @@
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-26 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-26 03:14:34 +0000"
     },
     "done": true
   },
@@ -1547,6 +1620,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-26 03:15:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-05-26 02:27:34 +0000"
@@ -1660,6 +1739,12 @@
   "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-26 03:15:12 +0000"
     },
     "done": true
   },
