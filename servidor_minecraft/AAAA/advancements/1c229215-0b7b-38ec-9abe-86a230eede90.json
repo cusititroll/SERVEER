@@ -11,9 +11,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_pendant": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -32,6 +50,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-05-26 02:34:29 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -107,6 +131,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_grill": {
     "criteria": {
       "has_iron": "2025-05-26 03:05:13 +0000"
@@ -116,6 +146,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -161,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/root": {
     "criteria": {
       "requirement": "2025-05-26 02:26:32 +0000"
@@ -170,6 +212,12 @@
   "valhelsia_furniture:recipes/decorations/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-05-26 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-05-26 03:26:32 +0000"
     },
     "done": true
   },
@@ -233,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-05-26 02:26:32 +0000"
@@ -267,6 +321,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-26 03:01:58 +0000",
       "minecraft:spider": "2025-05-26 03:15:11 +0000",
+      "minecraft:enderman": "2025-05-26 03:22:50 +0000",
       "minecraft:zombie": "2025-05-26 03:00:44 +0000"
     },
     "done": false
@@ -313,6 +368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-26 03:15:12 +0000"
@@ -355,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-26 03:26:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_trampoline": {
     "criteria": {
       "has_iron": "2025-05-26 03:05:13 +0000"
@@ -388,6 +455,24 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-05-26 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-26 03:26:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -439,6 +524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-26 03:22:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2025-05-26 03:05:13 +0000"
@@ -448,6 +539,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -505,9 +602,39 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/tuna/tuna_sandwich_from_bread": {
+    "criteria": {
+      "has_item": "2025-05-26 03:26:40 +0000"
     },
     "done": true
   },
@@ -589,9 +716,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
       "has_log": "2025-05-26 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -763,6 +908,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_trampoline": {
     "criteria": {
       "has_iron": "2025-05-26 03:05:13 +0000"
@@ -878,6 +1029,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-26 03:26:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
@@ -926,6 +1083,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
@@ -935,6 +1098,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-26 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -953,6 +1122,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-05-26 03:06:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -977,6 +1152,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -1007,6 +1188,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-26 02:38:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -1112,6 +1299,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-05-26 02:26:44 +0000"
@@ -1169,6 +1362,18 @@
   "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-05-26 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -1238,15 +1443,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-26 02:34:27 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2025-05-26 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-05-26 03:22:50 +0000"
     },
     "done": true
   },
@@ -1274,9 +1497,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-05-26 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "has_the_recipe": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -1295,6 +1536,12 @@
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2025-05-26 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -1343,6 +1590,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "stellarity:husbandry/eat_chorus_fruit": {
+    "criteria": {
+      "eat_chorus_fruit": "2025-05-26 03:22:54 +0000"
     },
     "done": true
   },
@@ -1412,6 +1665,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/brazier": {
     "criteria": {
       "has_coals": "2025-05-26 02:46:50 +0000"
@@ -1427,6 +1698,12 @@
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-05-26 03:22:50 +0000"
     },
     "done": true
   },
@@ -1451,6 +1728,12 @@
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -1537,9 +1820,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-05-26 03:22:34 +0000"
     },
     "done": true
   },
@@ -1564,6 +1859,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-05-26 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-26 03:23:33 +0000"
     },
     "done": true
   },
@@ -1700,9 +2001,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chorus_fruit": "2025-05-26 03:22:54 +0000",
       "baked_potato": "2025-05-26 02:45:00 +0000",
       "apple": "2025-05-26 02:55:22 +0000",
-      "rotten_flesh": "2025-05-26 03:09:19 +0000"
+      "rotten_flesh": "2025-05-26 03:09:19 +0000",
+      "carrot": "2025-05-26 03:24:51 +0000"
     },
     "done": false
   },
@@ -1727,6 +2030,12 @@
   "beautify:trellis": {
     "criteria": {
       "requirement": "2025-05-26 02:28:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-26 03:22:27 +0000"
     },
     "done": true
   },
@@ -1775,6 +2084,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2025-05-26 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-26 03:23:44 +0000"
     },
     "done": true
   },
