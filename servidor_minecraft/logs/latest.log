@@ -1289,3 +1289,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27May2025 04:12:56.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BgodYT[/127.197.63.191:45041] logged in with entity id 6171 at (-91.09192278023117, 165.0, -681.2355812742326)
 [27May2025 04:12:56.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT joined the game
 [27May2025 04:12:56.973] [Server thread/INFO] [Jade/]: Syncing config to BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90)
+[27May2025 04:26:05.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
+[27May2025 04:26:05.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[27May2025 04:29:51.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Fishy Business]
