@@ -1306,3 +1306,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 02:50:18.026] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-954, 77, -726) minecraft:overworld
 [28May2025 02:56:39.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
 [28May2025 02:56:39.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[28May2025 03:05:24.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Diamonds!]
+[28May2025 03:12:39.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BgodYT lost connection: Disconnected
+[28May2025 03:12:39.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT left the game
+[28May2025 03:13:03.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BgodYT[/127.197.63.191:37583] logged in with entity id 35404 at (-999.6999999880791, 54.0, -740.785811283474)
+[28May2025 03:13:03.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT joined the game
+[28May2025 03:13:03.204] [Server thread/INFO] [Jade/]: Syncing config to BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90)
