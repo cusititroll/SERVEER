@@ -7187,5 +7187,11 @@
     },
     "done": true
   },
+  "simplyswords:arcanethyst": {
+    "criteria": {
+      "requirement": "2025-05-28 02:41:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
