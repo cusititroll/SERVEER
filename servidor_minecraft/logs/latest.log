@@ -1291,3 +1291,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 00:14:58.766] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Butterfly['Butterfly'/255, l='ServerLevel[AAAA]', x=-370.32, y=69.70, z=-298.87]
 [28May2025 00:16:03.321] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/535, l='ServerLevel[AAAA]', x=-495.50, y=49.00, z=-527.50]
 [28May2025 00:16:08.865] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/851, l='ServerLevel[AAAA]', x=-489.50, y=45.00, z=-525.50]
+[28May2025 00:23:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Sweet Dreams]
+[28May2025 00:26:03.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-979, y=79, z=-735} BlockPos{x=-979, y=77, z=-736}
+[28May2025 00:29:18.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-957, y=79, z=-726} BlockPos{x=-958, y=77, z=-726}
