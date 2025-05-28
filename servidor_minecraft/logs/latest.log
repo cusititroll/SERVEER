@@ -1304,3 +1304,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 02:49:38.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Diamonds!]
 [28May2025 02:50:18.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was doomed to fall
 [28May2025 02:50:18.026] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-954, 77, -726) minecraft:overworld
+[28May2025 02:56:39.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[28May2025 02:56:39.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
